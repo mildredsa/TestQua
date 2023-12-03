@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (passInput !== "") {
             // Check if there is a unique match for the password in the userData array
             var matchingUsers = userData.filter(function (value) {
-                return value.password === passInput;
+                return value.pass === passInput;
             });
 
             if (matchingUsers.length !== 1) {

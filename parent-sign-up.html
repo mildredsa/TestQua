@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Parent Sign Up</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Outfit%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A400%2C500%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Book+Antiqua%3A700"/>
+  <link rel="stylesheet" href="./styles/parent-sign-up.css"/>
+  <script src="/jscripts/parent-sign-up.js"></script>
+
+</head>
+<body>
+<div class="parent-signup-web">
+  <div class="parent-signup-form">
+    <div class="header">
+      <img id="caret-left" class="caret-left" src="./assets/caret-left.png"/>
+      <p class="lbl-sign">Sign Up</p>
+    </div>
+
+    <div class="input-container name">
+      <input type="text" id="name" name="name" placeholder="" required>
+      <label for="name">Name</label>
+    </div>
+    <p class="emp-name">NAME FIELD CANNOT BE EMPTY</p>
+
+    <div class="input-container email">
+      <input type="text" id="email" name="email" placeholder="" required>
+      <label for="email">Email</label>
+    </div>
+    <p class="emp-email">EMAIL FIELD CANNOT BE EMPTY</p>
+
+    <div class="input-container num">
+      <input type="text" id="num" name="num" placeholder="" required>
+      <label for="num">Phone Number</label>
+    </div>
+    <p class="emp-num">PHONE NUMBER FIELD CANNOT BE EMPTY</p>
+
+    <div class="input-container pass">
+      <input type="password" id="pass" name="pass" placeholder="" required>
+      <label for="pass">Password</label>
+    </div>
+    <p class="emp-pass">PASSWORD FIELD CANNOT BE EMPTY</p>
+
+    <div class="input-container cpass">
+      <input type="password" id="cpass" name="cpass" placeholder="" required>
+      <label for="cpass">Confirm Password</label>
+    </div>
+    <p class="emp-cpass">CONFIRM PASSWORD FIELD CANNOT BE EMPTY</p>
+
+    <div class="tc">
+      <div class="cont">
+        <p class="agree">
+          <span class="agree-1">By continuing you agree to our</span>
+        </p>
+        <p class="cond">Terms and Conditions</p>
+      </div>
+      <div class="privacy">
+        <p class="policy">Privacy Policy</p>
+        <p class="and">and</p>
+        <p class="cookie">Cookie Statements</p>
+      </div>
+    </div>
+    <div id="btn-sign" class="btn-sign">Sign Up</div>
+    <div class="login">
+      <p class="acct">Already have an account?</p>
+      <p id="lnk-log" class="lnk-log">Login</p>
+    </div>
+  </div>
+</div>
+</body>

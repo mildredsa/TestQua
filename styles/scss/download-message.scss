@@ -1,0 +1,76 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 35.3rem;
+}.download-message-NCV {
+  padding: 4.8rem 2.3rem 4.9rem 2.4rem;
+  width: 100%;
+  box-shadow: 0 0.6rem 0.4rem rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 2.3rem;
+
+  .check-circle-JM3 {
+    box-sizing: border-box;
+    position: relative;
+    background-image: url('REPLACE_IMAGE:I11:2512;13:2819');
+    flex-shrink: 0;
+    margin: 0rem 12rem 3.7rem 12.1rem;
+    padding: 0.542rem 0.542rem 0.542rem 0.542rem;
+    width: calc(100% - 24.1rem);
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    .vector-zjf {
+      width: 5.4167rem;
+      height: 5.4167rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+  }
+  .download-complete-ivZ {
+    flex-shrink: 0;
+    margin: 0rem 0.1rem 1.4rem 0rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2175;
+    color: #000000;
+    font-family: Montserrat, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .group-50-pyb {
+    width: 100%;
+    cursor: pointer;
+    white-space: nowrap;
+    align-items: center;
+    flex-shrink: 0;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.400000006);
+    background-color: #6c64c4;
+    font-size: 2rem;
+    line-height: 1.2175;
+    font-family: Montserrat, 'Source Sans Pro';
+    height: 5rem;
+    color: #ffffff;
+    border-radius: 1rem;
+  }
+}

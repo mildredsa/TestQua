@@ -1,0 +1,178 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 43rem;
+}.admin-notifications {
+  box-sizing: border-box;
+  padding: 5.7rem 3.1rem 7.8rem 3.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0 0 3rem 2rem;
+}
+.admin-notifications .header {
+  margin: 0rem 1.1rem 5.8rem 0.1rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-notifications .header .lbl-notif {
+  margin-right: 17.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-notifications .header .btn-close {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-app-dl-9aV {
+  margin: 0rem 0.1rem 2.8rem 0rem;
+  box-sizing: border-box;
+  padding: 2.1rem 1.967rem 1.7rem 2.8rem;
+  width: 36.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(0, 0, 0, 0.5);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-app-dl-9aV .auto-group-2b4h-eXF {
+  margin: 0rem 1.433rem 1.7rem 0rem;
+  width: calc(100% - 1.4333rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-app-dl-9aV .auto-group-2b4h-eXF .name-afo {
+  margin: 0rem 0.2rem 0.2rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-app-dl-9aV .auto-group-2b4h-eXF .datetime-Gh3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-app-dl-9aV .auto-group-bj5o-oBB {
+  margin-left: 0.1rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-app-dl-9aV .auto-group-bj5o-oBB .details-8jF {
+  margin: 0rem 2.167rem 2.1rem 0rem;
+  max-width: 26.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.admin-notifications .notif-app-dl-9aV .auto-group-bj5o-oBB .tabler-trash-3bK {
+  width: 2.6667rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-geofence-wgh {
+  margin-left: 0.1rem;
+  box-sizing: border-box;
+  padding: 2.1rem 2.067rem 1.8rem 2.8rem;
+  width: 36.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(0, 0, 0, 0.5);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-geofence-wgh .auto-group-r9dp-rof {
+  margin: 0rem 1.033rem 2.3rem 0rem;
+  width: calc(100% - 1.0333rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-geofence-wgh .auto-group-r9dp-rof .name-y7b {
+  margin: 0rem 0.2rem 0.2rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-geofence-wgh .auto-group-r9dp-rof .datetime-tVT {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-geofence-wgh .auto-group-aheu-DXj {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.admin-notifications .notif-geofence-wgh .auto-group-aheu-DXj .details-Axm {
+  margin: 0rem 2.567rem 1.4rem 0rem;
+  max-width: 26.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.admin-notifications .notif-geofence-wgh .auto-group-aheu-DXj .tabler-trash-ggD {
+  width: 2.6667rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

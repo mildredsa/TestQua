@@ -1,0 +1,77 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.successful-sign-up-t9T {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #bfbaf8;
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+
+  .successful-signup-pYu {
+    flex-direction: column;
+    width: 100%;
+    overflow: hidden;
+    align-items: center;
+    position: relative;
+    display: flex;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    padding: 10.7rem 3.3rem 7.3rem 3.2rem;
+    height: 100%;
+
+    .congratulations-9LH {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 14.5rem 0.6rem 0rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      line-height: 1.26;
+      color: #000000;
+      font-family: Outfit, 'Source Sans Pro';
+    }
+    .incorrect-password-Fu7 {
+      flex-shrink: 0;
+      margin: 0rem 9.6rem 62.9rem 0rem;
+      max-width: 23.5rem;
+      font-size: 1.2rem;
+      font-weight: 500;
+      line-height: 1.2175;
+      color: #000000;
+      font-family: Montserrat, 'Source Sans Pro';
+    }
+    .btn-signup-yKK {
+      background-color: #6c64c4;
+      color: #ffffff;
+      font-family: Montserrat, 'Source Sans Pro';
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      font-size: 2rem;
+      line-height: 1.2175;
+      border-radius: 1rem;
+      flex-shrink: 0;
+      cursor: pointer;
+      width: 100%;
+      height: 5.5rem;
+      font-weight: 500;
+      white-space: nowrap;
+      display: flex;
+    }
+  }
+}

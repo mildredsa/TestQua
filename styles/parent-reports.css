@@ -1,0 +1,133 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.parent-reports-ZmF {
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #bfbaf8;
+}
+.parent-reports-ZmF .parent-reports-JD3 {
+  box-sizing: border-box;
+  padding: 8.7rem 4.7rem 21.561rem 3.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.parent-reports-ZmF .parent-reports-JD3 .auto-group-t76m-ofb {
+  margin: 0rem 1.1rem 9.3rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.parent-reports-ZmF .parent-reports-JD3 .auto-group-t76m-ofb .caret-left-LfX {
+  margin-right: 1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.parent-reports-ZmF .parent-reports-JD3 .auto-group-t76m-ofb .reports-H4y {
+  margin: 0rem 18.3rem 0.1rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.parent-reports-ZmF .parent-reports-JD3 .auto-group-t76m-ofb .vector-default-PNu {
+  width: 2.4rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.parent-reports-ZmF .parent-reports-JD3 .frame-91-L3F {
+  margin-left: 1.3rem;
+  width: 33.7rem;
+  row-gap: 5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.parent-reports-ZmF .parent-reports-JD3 .frame-91-L3F .app-web-report-4jw {
+  box-sizing: border-box;
+  padding: 3.5rem 6.2rem 5.47rem 3.8rem;
+  width: 100%;
+  height: 13.3696rem;
+  cursor: pointer;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.400000006);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.parent-reports-ZmF .parent-reports-JD3 .frame-91-L3F .app-web-report-4jw .apps-and-website-usage-report-z7o {
+  max-width: 23.7rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.parent-reports-ZmF .parent-reports-JD3 .frame-91-L3F .social-media-report-G5K {
+  box-sizing: border-box;
+  padding: 5.33rem 7.1rem 3.639rem 3.8rem;
+  width: 100%;
+  height: 13.3696rem;
+  cursor: pointer;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.400000006);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.parent-reports-ZmF .parent-reports-JD3 .frame-91-L3F .social-media-report-G5K .social-media-monitoring-report-BCH {
+  max-width: 22.8rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.parent-reports-ZmF .parent-reports-JD3 .frame-91-L3F .location-report-Stu {
+  box-sizing: border-box;
+  padding: 5.961rem 3.8rem 5.239rem 3.8rem;
+  width: 100%;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.400000006);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

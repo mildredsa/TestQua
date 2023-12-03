@@ -1,0 +1,328 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.parent-profile-By7 {
+  background-color: #bfbaf8;
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+
+  .profile-Lb7 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    background-color: #ffffff;
+
+    .name-UhK {
+      left: 4rem;
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: rgba(0, 0, 0, 0.5);
+      font-family: Montserrat, 'Source Sans Pro';
+      height: 1.9rem;
+      position: absolute;
+      top: 20.7rem;
+      line-height: 1.2175;
+      white-space: nowrap;
+      width: 4.7rem;
+    }
+    .email-add-Zyf {
+      top: 29.8rem;
+      font-size: 1.5rem;
+      white-space: nowrap;
+      width: 10.9rem;
+      height: 1.9rem;
+      left: 4rem;
+      color: rgba(0, 0, 0, 0.5);
+      font-family: Montserrat, 'Source Sans Pro';
+      position: absolute;
+      font-weight: 500;
+      line-height: 1.2175;
+    }
+    .auto-group-nirb-sjT {
+      display: flex;
+      align-items: flex-end;
+      width: 26.8rem;
+      height: 2.1rem;
+      position: absolute;
+      left: 4.2rem;
+      top: 34.2rem;
+
+      .email-bvM {
+        font-family: Montserrat, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 2rem 0.1rem 0rem;
+        font-size: 1.6rem;
+        font-weight: 500;
+        line-height: 1.2175;
+        color: #000000;
+      }
+      .change-phone-jFs {
+        color: #2765dd;
+        font-family: Montserrat, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.5rem;
+        font-weight: 500;
+        line-height: 1.2175;
+        text-decoration-line: underline;
+      }
+    }
+    .name-ffK {
+      width: 13rem;
+      font-size: 1.6rem;
+      left: 4.2rem;
+      top: 25.1rem;
+      font-weight: 500;
+      line-height: 1.2175;
+      color: #000000;
+      font-family: Montserrat, 'Source Sans Pro';
+      height: 2rem;
+      position: absolute;
+      white-space: nowrap;
+    }
+    .auto-group-4ekf-aXP {
+      position: absolute;
+      left: 4.2rem;
+      top: 43.3rem;
+      display: flex;
+      align-items: flex-start;
+      width: 15.8rem;
+      height: 2rem;
+
+      .phone-JyB {
+        margin-right: 1.7rem;
+        font-size: 1.6rem;
+        font-weight: 500;
+        line-height: 1.2175;
+        color: #000000;
+        font-family: Montserrat, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .change-phone-eXF {
+        line-height: 1.2175;
+        text-decoration-line: underline;
+        color: #2765dd;
+        font-family: Montserrat, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+    }
+    .phone-CHs {
+      line-height: 1.2175;
+      font-family: Montserrat, 'Source Sans Pro';
+      white-space: nowrap;
+      position: absolute;
+      font-weight: 500;
+      left: 4rem;
+      top: 39rem;
+      font-size: 1.5rem;
+      color: rgba(0, 0, 0, 0.5);
+      width: 11.8rem;
+      height: 1.9rem;
+    }
+    .gender-7fj {
+      font-size: 1.5rem;
+      font-weight: 500;
+      line-height: 1.2175;
+      color: rgba(0, 0, 0, 0.5);
+      width: 5.7rem;
+      height: 1.9rem;
+      position: absolute;
+      left: 4rem;
+      top: 48rem;
+      font-family: Montserrat, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .dob-Cx5 {
+      height: 1.9rem;
+      top: 57.1rem;
+      font-size: 1.5rem;
+      font-weight: 500;
+      line-height: 1.2175;
+      white-space: nowrap;
+      width: 9.8rem;
+      position: absolute;
+      left: 3.8rem;
+      color: rgba(0, 0, 0, 0.5);
+      font-family: Montserrat, 'Source Sans Pro';
+    }
+    .btn-signup-v7P {
+      width: 36.5rem;
+      height: 5.5rem;
+      cursor: pointer;
+      color: #ffffff;
+      top: 83.5rem;
+      font-size: 2rem;
+      font-family: Montserrat, 'Source Sans Pro';
+      align-items: center;
+      font-weight: 500;
+      justify-content: center;
+      border-radius: 1rem;
+      background-color: #6c64c4;
+      position: absolute;
+      left: 3.2rem;
+      line-height: 1.2175;
+      white-space: nowrap;
+      display: flex;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    }
+    .gender-xpm {
+      height: 2.5rem;
+      position: absolute;
+      left: 4.2rem;
+      top: 52.2rem;
+      display: flex;
+      align-items: center;
+      width: 29.8rem;
+
+      .male-J7w {
+        margin-right: 3.2rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .select-Fos {
+          margin-right: 0.5rem;
+          width: 2.5rem;
+          height: 2.5rem;
+          cursor: pointer;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .male-QAy {
+          line-height: 1.2175;
+          color: #000000;
+          font-family: Montserrat, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.1rem;
+          font-size: 1.6rem;
+          font-weight: 500;
+        }
+      }
+      .female-8sf {
+        margin-right: 2.7rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .select-6Jh {
+          height: 2.5rem;
+          cursor: pointer;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 0.5rem;
+          width: 2.5rem;
+        }
+        .female-3Dw {
+          font-family: Montserrat, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.1rem;
+          font-size: 1.6rem;
+          font-weight: 500;
+          line-height: 1.2175;
+          color: #000000;
+        }
+      }
+      .other-P2u {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .select-kPF {
+          margin-right: 0.5rem;
+          width: 2.5rem;
+          height: 2.5rem;
+          cursor: pointer;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .other-Hty {
+          font-family: Montserrat, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.1rem;
+          font-size: 1.6rem;
+          font-weight: 500;
+          line-height: 1.2175;
+          color: #000000;
+        }
+      }
+    }
+    .vector-2-EZK {
+      object-fit: contain;
+      vertical-align: top;
+      width: 35rem;
+      height: 0;
+      position: absolute;
+      left: 4rem;
+      top: 27.75rem;
+    }
+    .auto-group-tbwt-xVK {
+      top: 10.9rem;
+      display: flex;
+      align-items: center;
+      width: 35.4rem;
+      height: 4rem;
+      position: absolute;
+      left: 3.4rem;
+
+      .my-profile-5K3 {
+        font-weight: 400;
+        line-height: 1.26;
+        color: #000000;
+        font-family: Outfit, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 20.3rem;
+        font-size: 2.5rem;
+      }
+      .ph-x-bold-QcD {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        width: 4rem;
+        height: 4rem;
+        cursor: pointer;
+      }
+    }
+    .vector-3-kg5 {
+      width: 35rem;
+      height: 0;
+      position: absolute;
+      left: 2.5rem;
+      top: 67.2rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+  }
+}

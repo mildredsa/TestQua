@@ -1,0 +1,235 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.calling-mom-CxD {
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #bfbaf8;
+}
+.calling-mom-CxD .video-calling-mom-96m {
+  box-sizing: border-box;
+  padding: 13.4rem 11.9rem 10.2rem 11rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(109, 106, 106, 0.5);
+}
+.calling-mom-CxD .video-calling-mom-96m .mom-pic-eJR {
+  margin: 0rem 3rem 1.2rem 4.1rem;
+  width: calc(100% - 7.1rem);
+  height: 13rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mom-pic-bg-Vsj.png');
+  border-radius: 6.5rem;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .calling-laica-XND {
+  margin: 0rem 4.8rem 18.3rem 4.7rem;
+  width: calc(100% - 9.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .calling-laica-XND .mom-ehj {
+  font-size: 4.5rem;
+  font-weight: 900;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .calling-laica-XND .calling-zFo {
+  margin-left: 0.9rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-zz69-Gz1 {
+  margin: 0rem 0rem 4.5rem 0.9rem;
+  width: calc(100% - 0.9rem);
+  height: 7.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-zz69-Gz1 .btn-mute-bmP {
+  margin-right: 7.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-zz69-Gz1 .btn-mute-bmP .auto-group-8fnm-xM3 {
+  margin-bottom: 0.3rem;
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-zz69-Gz1 .btn-mute-bmP .mute-gnq {
+  margin-right: 0.2rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-zz69-Gz1 .btn-chat-261 {
+  width: 6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-zz69-Gz1 .btn-chat-261 .auto-group-gxsh-n5B {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.367rem 1.5rem 1.3rem;
+  width: 100%;
+  background-color: rgba(201, 201, 201, 0.6999999881);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-zz69-Gz1 .btn-chat-261 .auto-group-gxsh-n5B .vector-ttu {
+  width: 3.3333rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-zz69-Gz1 .btn-chat-261 .chat-R89 {
+  margin-right: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  height: 8.1rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o .btn-vieocall-tXX {
+  margin-right: 6rem;
+  width: 8.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o .btn-vieocall-tXX .auto-group-ddok-dV7 {
+  margin: 0rem 1.2rem 0.6rem 0.9rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1.65rem 1.9rem 1.2rem;
+  width: calc(100% - 2.1rem);
+  background-color: rgba(201, 201, 201, 0.6999999881);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o .btn-vieocall-tXX .auto-group-ddok-dV7 .fluent-video-20-filled-vz1 {
+  width: 3.15rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o .btn-vieocall-tXX .video-FFb {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o .btn-spkr-Bf3 {
+  width: 6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o .btn-spkr-Bf3 .auto-group-9aht-weD {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.8rem 1.605rem 1.7rem 1.7rem;
+  width: 100%;
+  background-color: rgba(201, 201, 201, 0.6999999881);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o .btn-spkr-Bf3 .auto-group-9aht-weD .vector-5Ed {
+  width: 2.6953rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .auto-group-rwto-M1o .btn-spkr-Bf3 .speaker-1PB {
+  margin-right: 0.2rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calling-mom-CxD .video-calling-mom-96m .buttons-XFj .btn-end-LgM {
+  margin-left: 0.9rem;
+  width: 6rem;
+  height: 6.1rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

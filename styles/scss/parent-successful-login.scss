@@ -1,0 +1,77 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.parent-successful-login-2z1 {
+  overflow: hidden;
+  position: relative;
+  background-color: #c0baf9;
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+
+  .parent-successful-login-yPT {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10.7rem 3.3rem 7.3rem 3.2rem;
+
+    .congratulations-u2D {
+      margin: 0rem 14.5rem 0.6rem 0rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      line-height: 1.26;
+      color: #000000;
+      font-family: Outfit, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .incorrect-password-D2u {
+      flex-shrink: 0;
+      margin: 0rem 9.8rem 64.4rem 0rem;
+      font-size: 1.2rem;
+      font-weight: 500;
+      line-height: 1.2175;
+      color: #000000;
+      font-family: Montserrat, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .btn-next-LNR {
+      cursor: pointer;
+      font-weight: 500;
+      align-items: center;
+      flex-shrink: 0;
+      color: #ffffff;
+      display: flex;
+      border-radius: 1rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      background-color: #6c64c4;
+      width: 100%;
+      font-size: 2rem;
+      line-height: 1.2175;
+      white-space: nowrap;
+      height: 5.5rem;
+      font-family: Montserrat, 'Source Sans Pro';
+      justify-content: center;
+    }
+  }
+}

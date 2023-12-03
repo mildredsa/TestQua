@@ -1,0 +1,190 @@
+
+html {
+	font-size:62.5%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ul, li {
+	list-style: none;
+}
+
+input {
+	border: none;
+}
+
+body {
+  width: 144rem;
+}
+
+.child-login-web {
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #bfbaf8;
+}
+
+.child-login-web .child-login-form {
+  box-sizing: border-box;
+  padding: 7.3rem 3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.child-login-web .child-login-form .header {
+  margin: 0rem 26.8rem 9rem 0rem;
+  width: calc(100% - 26.8rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.child-login-web .child-login-form .header .caret-left {
+  margin-right: 1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.child-login-web .child-login-form .header .lbl-chl {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.child-login-web .child-login-form .img {
+  margin-bottom: 22.8rem;
+  width: 37rem;
+  height: 35.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 12.2rem;
+  flex-shrink: 0;
+}
+
+.child-login-web .child-login-form .code {
+  margin: 0rem 0rem 2.1rem 0.5rem;
+  width: 34rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  position: absolute;
+  bottom: 200px;
+}
+
+.child-login-web .child-login-form .btn-sub {
+  margin: 0rem 0.3rem 0rem 0.2rem;
+  width: calc(100% - 0.5rem);
+  height: 5.5rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.400000006);
+  background-color: #6c64c4;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.child-login-web .child-login-form .empty-code {
+  width: 20.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 40px; /* Adjusted left value */
+  bottom: 160px; /* Adjusted top value */
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ff1e00;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.input-container {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-container input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  width: 100%; /* Adjust width as needed */
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  outline: none;
+  background-color: transparent;
+  transition: 0.2s ease all;
+}
+
+.input-container input[type="text"]::placeholder {
+  color: #aaa; /* Default placeholder color */
+  position: absolute;
+  top: -25px;
+  left: 5px;
+  font-size: 12px;
+  transition: transform 0.2s ease, font-size 0.2s ease, color 0.2s ease;
+}
+
+.input-container label {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  padding: 10px;
+  font-size: 16px;
+  color: #aaa;
+  pointer-events: none;
+  transition: 0.2s ease all;
+}
+
+.input-container input[type="text"]:focus + label,
+.input-container input[type="text"]:not(:placeholder-shown) + label {
+  top: -25px;
+  left: 5px;
+  font-size: 12px;
+  color: #6c64c4;
+}
+
+.input-container input[type="text"]:focus {
+  border-color: #6c64c4;
+  background-color: #fff;
+}
+
+.input-container input[type="text"]:focus::placeholder {
+  color: #aaa;
+  transform: translateY(-100%);
+  font-size: 12px;
+  transition: transform 0.2s ease, font-size 0.2s ease, color 0.2s ease;
+}
+
+.input-container input[type="text"],
+.input-container label,
+.input-container input[type="text"]::placeholder {
+  font-family: Montserrat, 'Source Sans Pro', sans-serif;
+}
+

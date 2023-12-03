@@ -1,0 +1,675 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.location-report-ChB {
+  overflow: hidden;
+  position: relative;
+  background-color: #bfbaf8;
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+
+  .location-report-LHb {
+    padding: 8.7rem 3.4rem 46.7rem 3.3rem;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    height: 100%;
+    overflow: hidden;
+
+    .auto-group-zy7f-f4y {
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 22.1rem 4.5rem 0rem;
+      width: calc(100% - 22.1rem);
+      display: flex;
+
+      .caret-left-zN9 {
+        flex-shrink: 0;
+        margin-right: 1rem;
+        width: 3.5rem;
+        height: 3.5rem;
+        cursor: pointer;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .location-X7B {
+        font-weight: 400;
+        line-height: 1.26;
+        color: #000000;
+        font-family: Outfit, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 0.1rem;
+        font-size: 2.5rem;
+      }
+    }
+    .group-192-3rD {
+      width: 36.2rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin-left: 0.1rem;
+
+      .auto-group-dkdj-nJ1 {
+        width: 100%;
+        height: 4.8257rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-37-8cm {
+          width: 9.1rem;
+          height: 4.8257rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+        }
+        .rectangle-38-r2y {
+          width: 9.1rem;
+          height: 4.8257rem;
+          position: absolute;
+          left: 9.1rem;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+        }
+        .rectangle-39-aUm {
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+          width: 18rem;
+          height: 4.8257rem;
+          position: absolute;
+          left: 18.2rem;
+          top: 0;
+        }
+        .group-127-W7X {
+          width: 27.1rem;
+          height: 1.5rem;
+          position: absolute;
+          left: 3rem;
+          top: 0.9rem;
+          display: flex;
+          align-items: center;
+
+          .date-S1B {
+            color: #000000;
+            font-family: Montserrat, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 6.2rem;
+            font-size: 1.2rem;
+            font-weight: 700;
+            line-height: 1.2175;
+          }
+          .time-m3T {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 9.2rem;
+            font-size: 1.2rem;
+            font-weight: 700;
+            line-height: 1.2175;
+            color: #000000;
+            font-family: Montserrat, 'Source Sans Pro';
+          }
+          .location-ggD {
+            font-weight: 700;
+            line-height: 1.2175;
+            color: #000000;
+            font-family: Montserrat, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.2rem;
+          }
+        }
+      }
+      .auto-group-kram-cpm {
+        width: 100%;
+        height: 9.9743rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .group-149-mxZ {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 36.2rem;
+          height: 5rem;
+
+          .rectangle-41-uos {
+            width: 9.1rem;
+            height: 5rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            border: solid 0.1rem #000000;
+            box-sizing: border-box;
+            background-color: #ffffff;
+          }
+          .rectangle-42-Soo {
+            top: 0;
+            border: solid 0.1rem #000000;
+            box-sizing: border-box;
+            background-color: #ffffff;
+            width: 9.1rem;
+            height: 5rem;
+            position: absolute;
+            left: 9.1rem;
+          }
+          .rectangle-43-y33 {
+            position: absolute;
+            left: 18.2rem;
+            top: 0;
+            border: solid 0.1rem #000000;
+            box-sizing: border-box;
+            background-color: #ffffff;
+            width: 18rem;
+            height: 5rem;
+          }
+          .group-131-JLD {
+            width: 29.8rem;
+            height: 2.7rem;
+            position: absolute;
+            left: 1.5rem;
+            top: 1.2743rem;
+
+            .pm-2n1 {
+              white-space: nowrap;
+              width: 4.4rem;
+              height: 1.4rem;
+              position: absolute;
+              top: 0;
+              color: #000000;
+              font-family: Montserrat, 'Source Sans Pro';
+              left: 10.4rem;
+              font-size: 1.1rem;
+              font-weight: 400;
+              line-height: 1.2175;
+            }
+            .group-146-kT7 {
+              display: flex;
+              align-items: flex-start;
+              width: 29.8rem;
+              height: 2.7rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+
+              .item-10-23-2023-Hxq {
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin-right: 13rem;
+                font-size: 1.1rem;
+                font-weight: 400;
+                line-height: 1.2175;
+              }
+              .firing-range-pusok-lapu-lapu-city-pSy {
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                flex-shrink: 0;
+                max-width: 11.1rem;
+                font-size: 1.1rem;
+                font-weight: 400;
+                line-height: 1.2175;
+              }
+            }
+          }
+        }
+        .group-150-jZw {
+          left: 0;
+          top: 4.9743rem;
+          width: 36.2rem;
+          height: 5rem;
+          position: absolute;
+
+          .rectangle-41-UGd {
+            height: 5rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            border: solid 0.1rem #000000;
+            box-sizing: border-box;
+            background-color: #ffffff;
+            width: 9.1rem;
+          }
+          .rectangle-42-zVs {
+            top: 0;
+            border: solid 0.1rem #000000;
+            box-sizing: border-box;
+            background-color: #ffffff;
+            width: 9.1rem;
+            height: 5rem;
+            position: absolute;
+            left: 9.1rem;
+          }
+          .rectangle-43-XEu {
+            position: absolute;
+            left: 18.2rem;
+            top: 0;
+            border: solid 0.1rem #000000;
+            box-sizing: border-box;
+            background-color: #ffffff;
+            width: 18rem;
+            height: 5rem;
+          }
+          .group-157-Fgh {
+            width: 27.8rem;
+            height: 2.7rem;
+            position: absolute;
+            left: 1.5rem;
+            top: 1.2rem;
+
+            .pm-zeH {
+              left: 10.4rem;
+              top: 0;
+              font-family: Montserrat, 'Source Sans Pro';
+              height: 1.4rem;
+              position: absolute;
+              font-weight: 400;
+              line-height: 1.2175;
+              color: #000000;
+              white-space: nowrap;
+              width: 4.3rem;
+              font-size: 1.1rem;
+            }
+            .group-146-Jus {
+              height: 2.7rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              display: flex;
+              align-items: flex-start;
+              width: 27.8rem;
+
+              .item-10-23-2023-eiq {
+                line-height: 1.2175;
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin-right: 13rem;
+                font-size: 1.1rem;
+                font-weight: 400;
+              }
+              .cemento-pusok-lapu-lapu-city-PAd {
+                line-height: 1.2175;
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                flex-shrink: 0;
+                max-width: 9.1rem;
+                font-size: 1.1rem;
+                font-weight: 400;
+              }
+            }
+          }
+        }
+      }
+      .group-152-hx1 {
+        width: 100%;
+        height: 5rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-41-fP3 {
+          left: 0;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+          width: 9.1rem;
+          height: 5rem;
+          position: absolute;
+        }
+        .rectangle-42-1C1 {
+          left: 9.1rem;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+          width: 9.1rem;
+          height: 5rem;
+          position: absolute;
+        }
+        .rectangle-43-k9b {
+          width: 18rem;
+          height: 5rem;
+          position: absolute;
+          left: 18.2rem;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+        }
+        .group-158-5hf {
+          left: 1.5rem;
+          top: 1.2rem;
+          width: 29.6rem;
+          height: 2.7rem;
+          position: absolute;
+
+          .nn-277 {
+            color: #000000;
+            white-space: nowrap;
+            width: 4.7rem;
+            height: 1.4rem;
+            line-height: 1.2175;
+            font-size: 1.1rem;
+            font-weight: 400;
+            font-family: Montserrat, 'Source Sans Pro';
+            position: absolute;
+            left: 10.4rem;
+            top: 0;
+          }
+          .group-146-wE5 {
+            height: 2.7rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 29.6rem;
+
+            .metro-gaisano-pajo-lapu-lapu-city-tQD {
+              left: 18.7rem;
+              top: 0;
+              position: absolute;
+              font-size: 1.1rem;
+              font-weight: 400;
+              line-height: 1.2175;
+              color: #000000;
+              font-family: Montserrat, 'Source Sans Pro';
+              width: 10.9rem;
+              height: 2.7rem;
+            }
+            .item-10-23-2023-CQu {
+              top: 0;
+              font-size: 1.1rem;
+              line-height: 1.2175;
+              position: absolute;
+              height: 1.4rem;
+              left: 0;
+              font-weight: 400;
+              color: #000000;
+              font-family: Montserrat, 'Source Sans Pro';
+              white-space: nowrap;
+              width: 5.7rem;
+            }
+            .group-147-vLu {
+              position: absolute;
+              left: 0;
+              top: 0;
+              display: flex;
+              align-items: flex-start;
+              width: 29.6rem;
+              height: 2.7rem;
+
+              .item-10-23-2023-Gff {
+                flex-shrink: 0;
+                margin-right: 13rem;
+                font-size: 1.1rem;
+                font-weight: 400;
+                line-height: 1.2175;
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+              .metro-gaisano-pajo-lapu-lapu-city-QWy {
+                max-width: 10.9rem;
+                font-size: 1.1rem;
+                font-weight: 400;
+                line-height: 1.2175;
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                flex-shrink: 0;
+              }
+            }
+          }
+        }
+      }
+      .group-154-w17 {
+        width: 100%;
+        height: 5rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-41-gzH {
+          height: 5rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+          width: 9.1rem;
+        }
+        .rectangle-42-q6V {
+          height: 5rem;
+          position: absolute;
+          left: 9.1rem;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+          width: 9.1rem;
+        }
+        .rectangle-43-ZYH {
+          width: 18rem;
+          height: 5rem;
+          position: absolute;
+          left: 18.2rem;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+        }
+        .group-159-u6M {
+          left: 1.5rem;
+          top: 1.2rem;
+          width: 33.9rem;
+          height: 2.7rem;
+          position: absolute;
+
+          .am-e3w {
+            left: 10.4rem;
+            top: 0;
+            font-weight: 400;
+            line-height: 1.2175;
+            white-space: nowrap;
+            height: 1.4rem;
+            position: absolute;
+            color: #000000;
+            font-family: Montserrat, 'Source Sans Pro';
+            width: 4.3rem;
+            font-size: 1.1rem;
+          }
+          .group-146-xqK {
+            position: absolute;
+            left: 0;
+            top: 0;
+            display: flex;
+            align-items: flex-start;
+            width: 33.9rem;
+            height: 2.7rem;
+
+            .auto-group-b5hf-VaM {
+              margin-right: 13rem;
+              width: 5.7rem;
+              height: 1.4rem;
+              position: relative;
+              flex-shrink: 0;
+
+              .item-10-23-2023-dwT {
+                height: 1.4rem;
+                font-size: 1.1rem;
+                font-weight: 400;
+                white-space: nowrap;
+                width: 5.7rem;
+                left: 0;
+                top: 0;
+                line-height: 1.2175;
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                position: absolute;
+              }
+              .item-10-23-2023-AAh {
+                width: 5.7rem;
+                height: 1.4rem;
+                font-size: 1.1rem;
+                white-space: nowrap;
+                line-height: 1.2175;
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                position: absolute;
+                left: 0;
+                top: 0;
+                font-weight: 400;
+              }
+            }
+            .university-of-cebu-lm-looc-mandaue-city-52m {
+              font-weight: 400;
+              line-height: 1.2175;
+              color: #000000;
+              font-family: Montserrat, 'Source Sans Pro';
+              flex-shrink: 0;
+              max-width: 15.2rem;
+              font-size: 1.1rem;
+            }
+          }
+        }
+      }
+      .group-156-PJM {
+        position: relative;
+        flex-shrink: 0;
+        width: 100%;
+        height: 5rem;
+
+        .rectangle-41-XvM {
+          background-color: #ffffff;
+          width: 9.1rem;
+          height: 5rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+        }
+        .rectangle-42-sjK {
+          background-color: #ffffff;
+          width: 9.1rem;
+          height: 5rem;
+          position: absolute;
+          left: 9.1rem;
+          top: 0;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+        }
+        .rectangle-43-oss {
+          box-sizing: border-box;
+          background-color: #ffffff;
+          width: 18rem;
+          height: 5rem;
+          position: absolute;
+          left: 18.2rem;
+          top: 0;
+          border: solid 0.1rem #000000;
+        }
+        .group-160-9Rw {
+          left: 1.5rem;
+          top: 1.2rem;
+          width: 29.8rem;
+          height: 2.7rem;
+          position: absolute;
+
+          .am-5qP {
+            left: 10.4rem;
+            top: 0;
+            height: 1.4rem;
+            position: absolute;
+            font-weight: 400;
+            line-height: 1.2175;
+            color: #000000;
+            font-family: Montserrat, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 4.5rem;
+            font-size: 1.1rem;
+          }
+          .group-146-Qcm {
+            left: 0;
+            top: 0;
+            display: flex;
+            align-items: flex-start;
+            width: 29.8rem;
+            height: 2.7rem;
+            position: absolute;
+
+            .auto-group-q7tq-Mnu {
+              margin-right: 13rem;
+              width: 5.7rem;
+              height: 1.4rem;
+              position: relative;
+              flex-shrink: 0;
+
+              .item-10-23-2023-uJd {
+                height: 1.4rem;
+                top: 0;
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+                width: 5.7rem;
+                position: absolute;
+                left: 0;
+                font-size: 1.1rem;
+                font-weight: 400;
+                line-height: 1.2175;
+                white-space: nowrap;
+              }
+              .item-10-23-2023-2PF {
+                position: absolute;
+                font-size: 1.1rem;
+                font-weight: 400;
+                line-height: 1.2175;
+                white-space: nowrap;
+                width: 5.7rem;
+                height: 1.4rem;
+                left: 0;
+                top: 0;
+                color: #000000;
+                font-family: Montserrat, 'Source Sans Pro';
+              }
+            }
+            .firing-range-pusok-lapu-lapu-city-L93 {
+              font-family: Montserrat, 'Source Sans Pro';
+              flex-shrink: 0;
+              max-width: 11.1rem;
+              font-size: 1.1rem;
+              font-weight: 400;
+              line-height: 1.2175;
+              color: #000000;
+            }
+          }
+        }
+      }
+    }
+  }
+}

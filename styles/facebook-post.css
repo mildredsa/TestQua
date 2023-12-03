@@ -1,0 +1,185 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.facebook-post-oob {
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #bfbaf8;
+}
+.facebook-post-oob .facebook-post-XUh {
+  box-sizing: border-box;
+  padding: 11.3rem 2.7rem 4.2rem 2.7rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.facebook-post-oob .facebook-post-XUh .review-this-facebook-post--x4D {
+  margin: 0rem 6.4rem 3.3rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 {
+  margin-bottom: 3.3rem;
+  box-sizing: border-box;
+  padding: 0rem 0.3rem 46.097rem 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ghj-1-bg-HL9.png');
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-cjff-xyK {
+  margin: 0rem 25.2rem 0.3rem 0.3rem;
+  width: calc(100% - 25.5rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-cjff-xyK .ellipse-32-63w {
+  margin: 0.4rem 0.7rem 0rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/senyora.png');
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-cjff-xyK .auto-group-te9k-nSZ {
+  width: 7.8rem;
+  height: 1.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-cjff-xyK .auto-group-te9k-nSZ .rectangle-50-Xf3 {
+  width: 7.8rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-cjff-xyK .auto-group-te9k-nSZ .senyora-rxD {
+  width: 3.7rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #6681ac;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-fmzd-wim {
+  width: 34.5619rem;
+  height: 3.4033rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-fmzd-wim .rectangle-51-VEV {
+  width: 17.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-fmzd-wim .shout-out-to-this-fake-and-whore-laica-who-stole-my-boo-from-me-just-kill-yourself-die-and-disappear-in-this-world-2ER {
+  width: 34rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.5619rem;
+  top: 1.0033rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+
+.facebook-post-oob .facebook-post-XUh .fb-post-Sk5 .auto-group-fmzd-wim .shout-out-to-this-fake-and-whore-laica-who-stole-my-boo-from-me-just-kill-yourself-die-and-disappear-in-this-world-2ER .shout-out-to-this-fake-and-whore-laica-who-stole-my-boo-from-me-just-kill-yourself-die-and-disappear-in-this-world-2ER-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #6681ac;
+  font-family: Roboto, 'Source Sans Pro';
+}
+
+.facebook-post-oob .facebook-post-XUh .details-kTF {
+  margin: 0rem 0rem 7.4rem 1.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .btn-dswd-Feu {
+  margin: 0rem 0.6rem 0rem 0.5rem;
+  box-sizing: border-box;
+  padding: 1rem 13.1rem 1.4rem 13.2rem;
+  width: calc(100% - 1.1rem);
+  height: 5.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #6c64c4;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .btn-dswd-Feu .dswd-k5s {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.facebook-post-oob .facebook-post-XUh .btn-dswd-Feu .dswd-k5s .icons8-call-50-1-1-6vR {
+  margin-right: 0.4rem;
+  width: 3rem;
+  height: 3.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.facebook-post-oob .facebook-post-XUh .btn-dswd-Feu .dswd-k5s .dswd-cds {
+  margin-top: 0.26rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

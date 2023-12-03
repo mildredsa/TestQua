@@ -1,0 +1,86 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 7.8rem;
+}.options-f1w {
+  flex-direction: column;
+  width: 100%;
+  row-gap: 0.0435rem;
+  align-items: center;
+  display: flex;
+
+  .btn-signout-Pid {
+    font-size: 1.5rem;
+    line-height: 1.2175;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 100%;
+    font-weight: 500;
+    border: solid 0.05rem #000000;
+    background-color: #ffffff;
+    height: 2.8565rem;
+    color: #000000;
+    font-family: Montserrat, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .btn-remove-sNu {
+    font-weight: 500;
+    font-family: Montserrat, 'Source Sans Pro';
+    white-space: nowrap;
+    height: 2.8565rem;
+    color: #000000;
+    justify-content: center;
+    font-size: 1.5rem;
+    display: flex;
+    width: 100%;
+    line-height: 1.2175;
+    align-items: center;
+    border: solid 0.05rem #000000;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    flex-shrink: 0;
+  }
+  .btn-edit-xv9 {
+    box-sizing: border-box;
+    padding: 0.5rem 0.5rem 0.456rem 0.5rem;
+    width: 100%;
+    font-size: 1.5rem;
+    background-color: #ffffff;
+    font-weight: 500;
+    line-height: 1.2175;
+    color: #000000;
+    font-family: Montserrat, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.05rem #000000;
+    flex-shrink: 0;
+  }
+  .btn-report-3gh {
+    flex-shrink: 0;
+    font-weight: 500;
+    color: #000000;
+    font-family: Montserrat, 'Source Sans Pro';
+    border: solid 0.05rem #000000;
+    background-color: #ffffff;
+    white-space: nowrap;
+    box-sizing: border-box;
+    padding: 0.5rem 0.5rem 0.456rem 0.5rem;
+    width: 100%;
+    font-size: 1.5rem;
+    line-height: 1.2175;
+  }
+}

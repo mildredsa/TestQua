@@ -1,0 +1,170 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.mom-calling-Tt1 {
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #bfbaf8;
+}
+.mom-calling-Tt1 .mom-calling-bUR {
+  box-sizing: border-box;
+  padding: 13.2rem 9.7rem 9.5rem 9.7rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(109, 106, 106, 0.5);
+}
+.mom-calling-Tt1 .mom-calling-bUR .mom-pic-Jtd {
+  margin: 0rem 5.3rem 1.4rem 5.3rem;
+  width: calc(100% - 10.6rem);
+  height: 13rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mom-pic-bg-3Q1.png');
+  border-radius: 6.5rem;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .mom-calling-zWZ {
+  margin: 0rem 4.1rem 29.6rem 4.2rem;
+  width: calc(100% - 8.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .mom-calling-zWZ .mom-utR {
+  margin-left: 0.1rem;
+  font-size: 4.5rem;
+  font-weight: 900;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .mom-calling-zWZ .calling-S7f {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .buttons-N1K {
+  margin: 0rem 1rem 5.9rem 1.1rem;
+  width: calc(100% - 2.1rem);
+  height: 6.7rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .buttons-N1K .btn-remind-gXo {
+  margin-right: 9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .buttons-N1K .btn-remind-gXo .bi-alarm-fill-qQh {
+  margin: 0rem 0rem 1.2rem 0.1rem;
+  width: 3.9996rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .buttons-N1K .btn-remind-gXo .remind-Zbb {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .buttons-N1K .btn-chat-ggD {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .buttons-N1K .btn-chat-ggD .vector-3Fs {
+  margin: 0rem 0.067rem 1.8rem 0rem;
+  width: 3.3333rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .buttons-N1K .btn-chat-ggD .mesg-MXT {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .slider-ans-tGV {
+  box-sizing: border-box;
+  padding-right: 3.7rem;
+  width: 100%;
+  height: 6.7rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.6000000238);
+  border-radius: 3.65rem;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .slider-ans-tGV .btn-ans-Qkd {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.317rem 1.217rem 1.842rem 1.733rem;
+  height: 100%;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.35rem;
+  flex-shrink: 0;
+}
+.mom-calling-Tt1 .mom-calling-bUR .slider-ans-tGV .btn-ans-Qkd .solar-phone-bold-jY1 {
+  width: 3.75rem;
+  height: 3.5417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mom-calling-Tt1 .mom-calling-bUR .slider-ans-tGV .answer-dNV {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

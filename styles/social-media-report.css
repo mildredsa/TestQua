@@ -1,0 +1,457 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.social-media-report-QBo {
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #bfbaf8;
+}
+.social-media-report-QBo .social-media-report-wBj {
+  box-sizing: border-box;
+  padding: 8.7rem 3.4rem 50.2rem 3.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .auto-group-hgo7-GUu {
+  margin: 0rem 17.7rem 4.5rem 0rem;
+  width: calc(100% - 17.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .auto-group-hgo7-GUu .caret-left-Q5K {
+  margin-right: 1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .auto-group-hgo7-GUu .social-media-YBX {
+  margin-bottom: 0.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ {
+  margin-left: 0.1rem;
+  width: 36.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-ktch-D2m {
+  width: 100%;
+  height: 4.8257rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-ktch-D2m .rectangle-37-G13 {
+  width: 9.1rem;
+  height: 4.8257rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-ktch-D2m .rectangle-38-nk5 {
+  width: 9.1rem;
+  height: 4.8257rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-ktch-D2m .rectangle-39-idj {
+  width: 18rem;
+  height: 4.8257rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-ktch-D2m .group-127-Fdf {
+  width: 28.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 1.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-ktch-D2m .group-127-Fdf .date-time-avq {
+  margin-right: 1.6rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-ktch-D2m .group-127-Fdf .social-media-app-7fs {
+  margin-right: 6.8rem;
+  max-width: 7.9rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-ktch-D2m .group-127-Fdf .activity-du7 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w {
+  width: 100%;
+  height: 10.7372rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .rectangle-41-L2q {
+  width: 9.1rem;
+  height: 10.7372rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .rectangle-42-UPw {
+  width: 9.1rem;
+  height: 10.7372rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .rectangle-43-QoP {
+  width: 18rem;
+  height: 10.7372rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww {
+  width: 33.8rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.5743rem;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .auto-group-7dqh-UYM {
+  margin: 0rem 18.4rem 0.3rem 0rem;
+  width: calc(100% - 18.4rem);
+  display: flex;
+  align-items: center;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .auto-group-7dqh-UYM .item-10-23-2023-Qgu {
+  margin-right: 4.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .auto-group-7dqh-UYM .facebook-iSh {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-146-rYu {
+  margin: 0rem 2rem 0.5rem 1.1rem;
+  width: calc(100% - 3.1rem);
+  display: flex;
+  align-items: center;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-146-rYu .am-nhT {
+  margin-right: 12.8rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-146-rYu .chat-with-kim-gonzaga-7jj {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-147-ezZ {
+  margin: 0rem 0rem 0.4rem 1.1rem;
+  width: calc(100% - 1.1rem);
+  display: flex;
+  align-items: flex-start;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-147-ezZ .am-z2q {
+  margin-right: 13rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-147-ezZ .liked-and-followed-cong-tv-page-7t9 {
+  margin-top: 0.1rem;
+  max-width: 15.4rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-148-pnZ {
+  margin: 0rem 0.9rem 0rem 1.1rem;
+  width: calc(100% - 2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-148-pnZ .am-ALd {
+  margin-right: 12.9rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-r8yj-B9w .group-131-Lww .group-148-pnZ .visited-toni-fowler-official-page-JBw {
+  max-width: 14.5rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ {
+  width: 100%;
+  height: 10.7372rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .rectangle-45-a9T {
+  width: 9.1rem;
+  height: 10.7372rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .rectangle-46-WJ1 {
+  width: 9.1rem;
+  height: 10.7372rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .rectangle-47-qbB {
+  width: 18rem;
+  height: 10.7372rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD {
+  width: 33.2rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.6372rem;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-c9xt-h7b {
+  margin: 0rem 17.5rem 0.6rem 0rem;
+  width: calc(100% - 17.5rem);
+  display: flex;
+  align-items: center;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-c9xt-h7b .item-10-23-2023-dX3 {
+  margin-right: 4.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-c9xt-h7b .instagram-x3X {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-ascz-VZF {
+  margin: 0rem 2.5rem 0.2rem 1.1rem;
+  width: calc(100% - 3.6rem);
+  display: flex;
+  align-items: center;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-ascz-VZF .pm-q7K {
+  margin-right: 12.9rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-ascz-VZF .chat-with-james-reid-xxd {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-dcr3-VxZ {
+  margin: 0rem 1.7rem 0.1rem 1.1rem;
+  width: calc(100% - 2.8rem);
+  display: flex;
+  align-items: center;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-dcr3-VxZ .pm-EQM {
+  margin: 0rem 12.7rem 0.1rem 0rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-dcr3-VxZ .followed-cha-eun-woo-ZBj {
+  margin-top: 0.1rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-4mtr-6Bf {
+  margin: 0rem 0rem 0.2rem 1.1rem;
+  width: calc(100% - 1.1rem);
+  display: flex;
+  align-items: center;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-4mtr-6Bf .pm-RUq {
+  margin-right: 13.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-4mtr-6Bf .followed-chase-cokaliong-xUm {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-bu9f-VzV {
+  margin: 0rem 1.9rem 0rem 1.1rem;
+  width: calc(100% - 3rem);
+  display: flex;
+  align-items: center;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-bu9f-VzV .pm-ESH {
+  margin-right: 13rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.social-media-report-QBo .social-media-report-wBj .group-191-4vZ .auto-group-xgny-RGZ .group-132-NLD .auto-group-bu9f-VzV .followed-sandara-park-aFF {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

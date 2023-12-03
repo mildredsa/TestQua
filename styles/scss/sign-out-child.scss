@@ -1,0 +1,77 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 35.3rem;
+}.sign-out-child-T9X {
+  padding: 4.2rem 0.831rem 4.6rem 1.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  align-items: center;
+  border-radius: 2.3rem;
+
+  .question-NnH {
+    margin-bottom: 1rem;
+    width: 33.369rem;
+    height: 26.5rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .are-you-sure-your-want-to-sign-out-your-child-u1X {
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2175;
+    font-family: Montserrat, 'Source Sans Pro';
+    flex-shrink: 0;
+    margin: 0rem 0.169rem 2.9rem 0rem;
+    max-width: 20.8rem;
+    text-align: center;
+    color: #000000;
+  }
+  .group-50-Nvh {
+    margin: 0rem 1.53rem 1rem 1.368rem;
+    align-items: center;
+    background-color: #6c64c4;
+    border-radius: 1rem;
+    width: calc(100% - 2.8973rem);
+    height: 5rem;
+    font-size: 2rem;
+    line-height: 1.2175;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.400000006);
+    flex-shrink: 0;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Montserrat, 'Source Sans Pro';
+    font-weight: 400;
+    white-space: nowrap;
+    display: flex;
+    justify-content: center;
+  }
+  .cancel-2VT {
+    line-height: 1.2175;
+    color: #3d3a3a;
+    font-family: Montserrat, 'Source Sans Pro';
+    flex-shrink: 0;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 1.2rem;
+    white-space: nowrap;
+    margin-right: 0.2535rem;
+  }
+}

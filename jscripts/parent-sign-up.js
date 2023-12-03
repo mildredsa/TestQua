@@ -15,6 +15,9 @@ document.addEventListener('DOMContentLoaded', function () {
     var empNum = document.querySelector('.emp-num');
     var empPass = document.querySelector('.emp-pass');
     var empCpass = document.querySelector('.emp-cpass');
+
+    // Array to store input values
+    var inputValues = [];
   
     // Add a click event handler to the "caret-left" image
     caretLeft.addEventListener('click', function () {
@@ -71,6 +74,16 @@ document.addEventListener('DOMContentLoaded', function () {
         passInput.value.trim() !== '' &&
         cpassInput.value.trim() !== ''
       ) {
+
+        // Store input values in the array
+        inputValues.push({
+        name: nameInput.value.trim(),
+        email: emailInput.value.trim(),
+        num: numInput.value.trim(),
+        pass: passInput.value.trim(),
+        cpass: cpassInput.value.trim(),
+      });
+
         // Redirect to successful-sign-up.html
         window.location.href = 'successful-sign-up.html';
       }

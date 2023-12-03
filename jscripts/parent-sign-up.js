@@ -1,3 +1,5 @@
+import { userData } from './data.js';
+
 document.addEventListener('DOMContentLoaded', function () {
     // This ensures that the DOM is fully loaded before the script runs
   
@@ -15,9 +17,6 @@ document.addEventListener('DOMContentLoaded', function () {
     var empNum = document.querySelector('.emp-num');
     var empPass = document.querySelector('.emp-pass');
     var empCpass = document.querySelector('.emp-cpass');
-
-    // Array to store input values
-    var inputValues = [];
   
     // Add a click event handler to the "caret-left" image
     caretLeft.addEventListener('click', function () {
@@ -76,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function () {
       ) {
 
         // Store input values in the array
-        inputValues.push({
+        userData.push({
         name: nameInput.value.trim(),
         email: emailInput.value.trim(),
         num: numInput.value.trim(),

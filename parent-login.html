@@ -10,12 +10,13 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A500"/>
   <link rel="stylesheet" href="./styles/parent-login.css"/>
+  <script src="/jscripts/parent-login.js"></script>
 </head>
 <body>
 <div class="parent-login-web">
   <div class="parent-login-form">
     <div class="header">
-      <img class="caret-left" src="./assets/caret-left.png"/>
+      <img id="caret-left" class="caret-left" src="./assets/caret-left.png"/>
       <p class="lbl-par">Parent</p>
     </div>
     <div class="img">
@@ -30,15 +31,15 @@
         <p class="inc-email">PLEASE INPUT THE CORRECT USERNAME</p>
       </div>
       <div class="input-container pass">
-        <input type="text" id="pass" name="pass" placeholder="" required>
+        <input type="password" id="pass" name="pass" placeholder="" required>
         <label for="pass">Password</label>
       </div>
       <div class="pass-error">
         <p class="emp-pass">PASSWORD FIELD CANNOT BE EMPTY</p>
         <p class="inc-pass">PLEASE INPUT THE CORRECT PASSWORD</p>
       </div>
-      <p class="lnk-forgot">Forgot Password?</p>
-      <div class="btn-log">Login</div>
+      <p id="lnk-forgot" class="lnk-forgot">Forgot Password?</p>
+      <div id="btn-log" class="btn-log">Login</div>
     </div>
   </div>
 </div>

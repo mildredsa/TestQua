@@ -115,7 +115,7 @@ body {
   height: 1.5rem;
   position: absolute;
   left: 4.3rem;
-  top: 3.5rem;
+  top: 2.9rem;
 }
 
 .parent-login-web .parent-login-form .form .email-error .emp-email {
@@ -280,3 +280,60 @@ body {
   font-family: Montserrat, 'Source Sans Pro', sans-serif;
 }
 
+.parent-login-web .parent-login-form .form .pass input[type="password"] {
+  padding: 10px;
+  font-size: 16px;
+  width: 100%;
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  outline: none;
+  background-color: transparent;
+  transition: 0.2s ease all;
+}
+
+.parent-login-web .parent-login-form .form .pass input[type="password"]::placeholder {
+  color: #aaa;
+  position: absolute;
+  top: -25px;
+  left: 5px;
+  font-size: 12px;
+  transition: transform 0.2s ease, font-size 0.2s ease, color 0.2s ease;
+}
+
+.parent-login-web .parent-login-form .form .pass label {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  padding: 10px;
+  font-size: 16px;
+  color: #aaa;
+  pointer-events: none;
+  transition: 0.2s ease all;
+}
+
+.parent-login-web .parent-login-form .form .pass input[type="password"]:focus + label,
+.parent-login-web .parent-login-form .form .pass input[type="password"]:not(:placeholder-shown) + label {
+  top: -25px;
+  left: 5px;
+  font-size: 12px;
+  color: #6c64c4;
+}
+
+.parent-login-web .parent-login-form .form .pass input[type="password"]:focus {
+  border-color: #6c64c4;
+  background-color: #fff;
+}
+
+.parent-login-web .parent-login-form .form .pass input[type="password"]:focus::placeholder {
+  color: #aaa;
+  transform: translateY(-100%);
+  font-size: 12px;
+  transition: transform 0.2s ease, font-size 0.2s ease, color 0.2s ease;
+}
+
+.parent-login-web .parent-login-form .form .pass input[type="password"],
+.parent-login-web .parent-login-form .form .pass label,
+.parent-login-web .parent-login-form .form .pass input[type="password"]::placeholder {
+  font-family: Montserrat, 'Source Sans Pro', sans-serif;
+}

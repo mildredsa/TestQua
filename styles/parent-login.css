@@ -337,3 +337,10 @@ body {
 .parent-login-web .parent-login-form .form .pass input[type="password"]::placeholder {
   font-family: Montserrat, 'Source Sans Pro', sans-serif;
 }
+
+.emp-email,
+.emp-pass,
+.inc-email,
+.inc-pass {
+  display: none; /* Initially hide error messages */
+}

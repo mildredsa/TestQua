@@ -10,21 +10,24 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A400"/>
   <link rel="stylesheet" href="./styles/child-login.css"/>
+  <script src="/jscripts/child-login.js"></script>
+  <script src="/jscripts/data.js"></script>
 </head>
 <body>
 <div class="child-login-web">
   <div class="child-login-form">
     <div class="header">
-      <img class="caret-left" src="./assets/caret-left.png"/>
+      <img id="caret-left" class="caret-left" src="./assets/caret-left.png"/>
       <p class="lbl-chl">Child</p>
     </div>
     <img class="img" src="./assets/baby.png"/>
     <div class="input-container code">
       <input type="text" id="code" name="code" placeholder="" required>
-      <label for="code">Verification Code</label>
+      <label for="code">Parent Key</label>
     </div>
     <p class="empty-code">CODE FIELD CANNOT BE EMPTY</p>
-    <div class="btn-sub">Submit</div>
+    <p class="inc-code">CODE FIELD CANNOT BE EMPTY</p>
+    <div id="btn-sub" class="btn-sub">Submit</div>
   </div>
 </div>
 </body>

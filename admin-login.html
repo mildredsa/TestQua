@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A400%2C500"/>
   <link rel="stylesheet" href="./styles/admin-login.css"/>
+  <script src="/jscripts/admin-login.js"></script>
+	<script src="/jscripts/data.js"></script>
 </head>
 <body>
 <div class="admin-login-web">
@@ -25,11 +27,13 @@
       <label for="email">Email</label>
     </div>
     <p class="empty-email">EMAIL FIELD CANNOT BE EMPTY</p>
+    <p class="inc-email">PLEASE INPUT THE CORRECT EMAIL!</p>
     <div class="input-container pass">
-      <input type="text" id="password" name="password" placeholder="" required>
+      <input type="password" id="password" name="password" placeholder="" required>
       <label for="password">Password</label>
     </div>   
     <p class="empty-pass">PASSWORD FIELD CANNOT BE EMPTY</p>
+    <p class="inc-pass">PLEASE INPUT THE CORRECT PASSWORD!</p>
     <p class="lnk-forgot">Forgot Password?</p>
     <div class="btn-log">Login</div>
   </div>

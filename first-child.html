@@ -10,18 +10,26 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A500"/>
   <link rel="stylesheet" href="./styles/first-child.css"/>
+  <script src="/jscripts/first-child.js"></script>
+	<script src="/jscripts/data.js"></script>
 </head>
 <body>
-<div class="first-child-wyo">
-  <div class="add-child-Uyj">
-    <p class="add-a-child-dLq">Add a Child</p>
-    <div class="child-pic-w6d">
+<div class="first-child-web">
+  <div class="first-child-form">
+    <p class="lbl-chl">Add a Child</p>
+    <div class="img">
     </div>
-    <p class="empty-birthdate-F7K">BIRTH DATE FIELD CANNOT BE EMPTY</p>
-    <div class="btn-done-Z81">Done</div>
-    <p class="empty-username-oHF">NAME FIELD CANNOT BE EMPTY</p>
-    <img class="vector-3-WSZ" src="REPLACE_IMAGE:11:3415"/>
-    <img class="vector-3-SLD" src="REPLACE_IMAGE:11:3414"/>
+    <div class="input-container name">
+      <input type="text" id="cname" name="name" placeholder="" required>
+      <label for="name">Child's Name</label>
+    </div>
+    <p class="empty-name">NAME FIELD CANNOT BE EMPTY</p>
+    <div class="input-container bday">
+      <input type="text" id="bday" name="bday" placeholder="" required>
+      <label for="bday">Birth Date</label>
+    </div>   
+    <p class="empty-bday">BIRTH DATE FIELD CANNOT BE EMPTY</p>
+    <div class="btn-done">Done</div>
   </div>
 </div>
 </body>

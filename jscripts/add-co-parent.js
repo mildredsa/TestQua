@@ -11,12 +11,12 @@ document.addEventListener('DOMContentLoaded', function () {
             emptyEmailMessage.style.display = 'block';
         } else {
             // Redirect to add-child.html if the email is not empty
-            window.location.href = 'add-child.html';
+            window.location.href = 'first-child.html';
         }
     });
 
     lnkLater.addEventListener('click', function () {
         // Redirect to add-child.html
-        window.location.href = 'add-child.html';
+        window.location.href = 'first-child.html';
     });
 });

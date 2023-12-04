@@ -9,31 +9,33 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A700"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A700"/>
   <link rel="stylesheet" href="./styles/admin-dashboard.css"/>
+  <script src="/jscripts/admin-dashboard.js"></script>
+	<script src="/jscripts/data.js"></script>
 </head>
 <body>
 <div class="admin-dash-web">
   <div class="admin-dash-form">
     <div class="top-group">
       <div class="side-group">
-        <img class="menu" src="./assets/menu.png"/>
+        <img id="menu" class="menu" src="./assets/menu.png"/>
         <p class="header">Hello, Admin</p>
       </div>
-      <img class="notif" src="./assets/bell.png"/>
+      <img id="notif" class="notif" src="./assets/bell.png"/>
     </div>
     <div class="reports">
-      <div class="approval">
+      <div id="approval" class="approval">
         <div class="rect"></div>
         <div class="img-app"></div>
         <p class="lbl-app">For Approval</p>
       </div>
-      <div class="parent">
+      <div id="parent" class="parent">
         <div class="rect2">
         </div>
         <div class="img-par">
         </div>
         <p class="lbl-par">View Parent</p>
       </div>
-      <div class="child">
+      <div id="child" class="child">
         <p class="lbl-chl">View Child</p>
         <img class="img-chl" src="./assets/kids.png"/>
       </div>

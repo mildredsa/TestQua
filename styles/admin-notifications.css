@@ -14,7 +14,8 @@ input {
 }
 body {
   width: 43rem;
-}.admin-notifications {
+}
+.admin-notifications {
   box-sizing: border-box;
   padding: 5.7rem 3.1rem 7.8rem 3.3rem;
   width: 100%;
@@ -176,3 +177,4 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+

@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Redirect to parent-home.html on successful login (if both email and password are valid)
         if (emailInput !== "" && passInput !== "" && emailError.style.display === "none" && passError.style.display === "none") {
-            window.location.href = "parent-home.html";
+            window.location.href = "add-co-parent.html";
         }
     }
 

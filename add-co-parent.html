@@ -10,18 +10,20 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A500"/>
   <link rel="stylesheet" href="./styles/add-co-parent.css"/>
+  <script src="/jscripts/add-co-parent.js"></script>
+	<script src="/jscripts/data.js"></script>
 </head>
 <body>
 <div class="add-parent-web">
   <div class="add-parent-form">
     <p class="header">Add a Co-Parent</p>
     <div class="input-container parent-email">
-      <input type="text" id="txtPntEmail" name="pntEmail" placeholder="" required>
+      <input type="text" id="email" name="email" placeholder="" required>
       <label for="parent">Parent Email</label>
     </div>
     <p class="empty-email">EMAIL FIELD CANNOT BE EMPTY</p>
-    <div class="btn-conf">Confirm</div>
-    <p class="later">Do it Later</p>
+    <div id="btn-conf" class="btn-conf">Confirm</div>
+    <p id="lnk-later" class="later">Do it Later</p>
   </div>
 </div>
 </body>

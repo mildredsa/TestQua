@@ -14,33 +14,26 @@ input {
 }
 body {
   width: 29.8rem;
-}.parent-menu-6ds {
+}.parent-menu-keH {
   box-sizing: border-box;
-  padding: 8.7rem 5.3rem 35.3rem 3.3rem;
+  padding: 17rem 5.3rem 35.3rem 3.3rem;
   width: 100%;
   overflow: hidden;
   position: relative;
+  align-items: center;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
+  border-radius: 0 2rem 2rem 0;
 }
-.parent-menu-6ds .caret-left-cs7 {
-  margin-bottom: 4.8rem;
-  width: 3.5rem;
-  height: 3.5rem;
-  cursor: pointer;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
-.parent-menu-6ds .mom-menu-ZGZ {
+.parent-menu-keH .mom-menu-qfj {
   margin: 0rem 6rem 7rem 0rem;
   width: calc(100% - 6rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.parent-menu-6ds .mom-menu-ZGZ .mom-pic-tpd {
+.parent-menu-keH .mom-menu-qfj .mom-pic-y1F {
   margin-right: 1.7rem;
   width: 9.5rem;
   height: 9.5rem;
@@ -49,11 +42,11 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/mom-pic-bg-83o.png');
+  background-image: url('../assets/mom-pic-bg.png');
   border-radius: 4.75rem;
   flex-shrink: 0;
 }
-.parent-menu-6ds .mom-menu-ZGZ .mil-Q2H {
+.parent-menu-keH .mom-menu-qfj .mil-edB {
   font-size: 3rem;
   font-weight: 500;
   line-height: 1.26;
@@ -62,8 +55,38 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-menu-6ds .profile-Wr1 {
+.parent-menu-keH .profile-ArR {
+  margin: 0rem 10.4rem 2.1rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.parent-menu-keH .children-tGd {
+  margin: 0rem 8.2rem 2.1rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.parent-menu-keH .parental-controls-16M {
   margin: 0rem 0rem 2.1rem 1.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.parent-menu-keH .reports-vDK {
+  margin: 0rem 8.9rem 2.1rem 0rem;
   cursor: pointer;
   font-size: 2.5rem;
   font-weight: 400;
@@ -73,9 +96,8 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-menu-6ds .children-DkR {
-  margin: 0rem 0rem 2.1rem 1.8rem;
-  cursor: pointer;
+.parent-menu-keH .logout-DiD {
+  margin-right: 9.7rem;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.26;
@@ -84,36 +106,16 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-menu-6ds .parental-controls-Lq3 {
-  margin: 0rem 0rem 2.1rem 1.8rem;
-  cursor: pointer;
-  font-size: 2.5rem;
-  font-weight: 400;
-  line-height: 1.26;
-  color: #000000;
-  font-family: Outfit, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
+
+
+/* Initially hide the menu */
+.parent-menu-6ds {
+  display: none;
 }
-.parent-menu-6ds .reports-4W9 {
-  margin: 0rem 0rem 2.1rem 1.8rem;
-  cursor: pointer;
-  font-size: 2.5rem;
-  font-weight: 400;
-  line-height: 1.26;
-  color: #000000;
-  font-family: Outfit, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.parent-menu-6ds .logout-CMT {
-  margin-left: 1.8rem;
-  cursor: pointer;
-  font-size: 2.5rem;
-  font-weight: 400;
-  line-height: 1.26;
-  color: #000000;
-  font-family: Outfit, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
+
+/* Show the menu when the 'show-menu' class is applied */
+.parent-menu-6ds.show-menu {
+  display: flex;
+  flex-direction: column;
+  /* Add any other styles for the displayed menu */
 }

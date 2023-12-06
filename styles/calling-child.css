@@ -44,7 +44,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/child-pic-bg-zhb.png');
+  background-image: url('../assets/child-pic.png');
   border-radius: 7.5rem;
   flex-shrink: 0;
 }

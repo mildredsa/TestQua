@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Outfit%3A400"/>
   <link rel="stylesheet" href="./styles/child-details.css"/>
+  <script src="/jscripts/child-details.js"></script>
 </head>
 <body>
 <div class="child-details-6LM">
@@ -20,36 +21,69 @@
       <img class="ph-x-bold-TCq" src="./assets/close.png"/>
     </div>
     <img class="child-pic-zTf" src="./assets/child-pic.png"/>
-    <p class="name-XTb">Name</p>
+    <div class="child-name">
+      <input type="text" id="editableName" class="editable-name" style="display: none;">
+      <p class="name-XTb">Name</p>
+      <p class="name-jTB">Laica</p>
+    </div>
+
     <p class="email-add-dFj">Email Address</p>
     <div class="auto-group-izyd-9E5">
+      <input type="text" id="editableEmail" class="editable-email" style="display: none;">
       <p class="email-GpV">la*********@gmail.com</p>
       <p class="change-phone-PeD">Change</p>
     </div>
-    <p class="name-jTB">Laica</p>
+    
+    <p class="phone-rw7">Phone Number</p>
     <div class="auto-group-zuv5-FAd">
+      <input type="text" id="editablePhone" class="editable-phone" style="display: none;">
       <p class="phone-aTo">*********00</p>
       <p class="change-phone-X89">Change</p>
     </div>
-    <p class="phone-rw7">Phone Number</p>
+    
+
     <p class="gender-Awo">Gender</p>
-    <p class="dob-HWd">Date of Birth</p>
     <div class="gender-c37">
       <div class="male-wbB">
-        <img class="select-haM" src="./assets/select-3uP.png"/>
-        <p class="male-SXw">Male</p>
+        <div class="gender-radio">
+          <input type="radio" id="male" name="gender" class="radio-input" />
+          <label for="male" class="radio-label">
+              <div class="radio-circle"></div>
+              <span class="radio-text">Male</span>
+          </label>
+        </div>
       </div>
+    
       <div class="female-aPF">
-        <img class="select-wDo" src="./assets/select-RmP.png"/>
-        <p class="female-fvV">Female</p>
+        <div class="gender-radio">
+          <input type="radio" id="female" name="gender" class="radio-input" />
+          <label for="female" class="radio-label">
+              <div class="radio-circle"></div>
+              <span class="radio-text">Female</span>
+          </label>
+        </div>
       </div>
+
       <div class="other-zhs">
-        <img class="select-MYR" src="./assets/select-7n5.png"/>
-        <p class="other-Ved">Other</p>
+        <div class="gender-radio">
+          <input type="radio" id="other" name="gender" class="radio-input" />
+          <label for="other" class="radio-label">
+              <div class="radio-circle"></div>
+              <span class="radio-text">Other</span>
+          </label>
+        </div>
       </div>
+
     </div>
-    <img class="vector-2-pgu" src="REPLACE_IMAGE:11:1021"/>
-    <img class="vector-3-AVs" src="REPLACE_IMAGE:11:3285"/>
+
+
+      <p class="dob-HWd">Date of Birth</p>
+      <input type="date" id="editableDOB" class="editable-dob" style="display: none;">
+      <p class="display-dob">January 1, 2000</p>
+      <p class="change-dob">Change</p>
+
+    
+
   </div>
 </div>
 </body>

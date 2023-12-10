@@ -13,34 +13,43 @@ input {
 	border: none;
 }
 body {
-  width: 29.8rem;
-}.admin-menu {
+  width: 144rem;
+}.admin-menu-Wq3 {
   box-sizing: border-box;
-  padding: 8.7rem 6.6rem 45.9rem 3.3rem;
+  padding: 4.6rem 50.5rem;
   width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #c0baf9;
+}
+.admin-menu-Wq3 .admin-menu-Syb {
+  box-sizing: border-box;
+  padding: 8.7rem 3.3rem 51.2rem 3.3rem;
+  width: 100%;
+  height: 100%;
   overflow: hidden;
   position: relative;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
 }
-.admin-menu .caret-left {
+.admin-menu-Wq3 .admin-menu-Syb .caret-left-Aub {
   margin-bottom: 4.8rem;
   width: 3.5rem;
   height: 3.5rem;
-  cursor: pointer;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.admin-menu .admin {
-  margin-bottom: 7rem;
-  width: 100%;
+.admin-menu-Wq3 .admin-menu-Syb .mom-menu-Jku {
+  margin: 0rem 16.5rem 7rem 0rem;
+  width: calc(100% - 16.5rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.admin-menu .admin .img {
+.admin-menu-Wq3 .admin-menu-Syb .mom-menu-Jku .mom-pic-r1j {
   margin-right: 1.7rem;
   width: 9.5rem;
   height: 9.5rem;
@@ -49,11 +58,11 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/mom-pic-bg-hXb.png');
+  background-image: url('../assets/admin-pic.png');
   border-radius: 4.75rem;
   flex-shrink: 0;
 }
-.admin-menu .admin .lbl-admin {
+.admin-menu-Wq3 .admin-menu-Syb .mom-menu-Jku .admin-MDP {
   font-size: 3rem;
   font-weight: 500;
   line-height: 1.26;
@@ -62,9 +71,8 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-menu .btn-rep {
+.admin-menu-Wq3 .admin-menu-Syb .reports-shX {
   margin: 0rem 0rem 2.1rem 1.8rem;
-  cursor: pointer;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.26;
@@ -73,20 +81,8 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-menu .btn-chl {
-  margin: 0rem 0rem 2.1rem 1.8rem;
-  cursor: pointer;
-  font-size: 2.5rem;
-  font-weight: 400;
-  line-height: 1.26;
-  color: #000000;
-  font-family: Outfit, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.admin-menu .btn-log {
+.admin-menu-Wq3 .admin-menu-Syb .logout-CUu {
   margin-left: 1.8rem;
-  cursor: pointer;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.26;

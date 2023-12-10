@@ -1,56 +1,113 @@
-document.addEventListener("DOMContentLoaded", function () {
-    var btnSms = document.getElementById("btn-sms");
-    var btnContent = document.getElementById("btn-content");
-    var btnHome = document.getElementById("btn-home");
-    var btnLocator = document.getElementById("btn-locator");
-    var btnSched = document.getElementById("btn-sched");
-    var btnCall = document.getElementById("btn-call");
-    var btnVCall = document.getElementById("btn-vcall");
-    var btnChat = document.getElementById("btn-chat");
+document.addEventListener('DOMContentLoaded', function () {
+    var btnSms = document.getElementById('btn-sms');
+    var btnContent = document.getElementById('btn-content');
+    var btnHome = document.getElementById('btn-home');
+    var btnLocator = document.getElementById('btn-locator');
+    var btnSched = document.getElementById('btn-sched');
+    var btnCall = document.getElementById('btn-call');
+    var btnVCall = document.getElementById('btn-vcall');
+    var btnChat = document.getElementById('btn-chat');
     var childActivity = document.getElementById("child-activity");
 
     // Click event listener for btn-sms
-    btnSms.addEventListener("click", function () {
-        window.location.href = "social-media.html";
+    btnSms.addEventListener('click', function () {
+        window.location.href = 'social-media.html';
     });
 
     // Click event listener for btn-content
-    btnContent.addEventListener("click", function () {
-        window.location.href = "content.html";
+    btnContent.addEventListener('click', function () {
+        window.location.href = 'content.html';
     });
 
     // Click event listener for btn-home
-    btnHome.addEventListener("click", function () {
-        window.location.href = "parent-home.html";
+    btnHome.addEventListener('click', function () {
+        window.location.href = 'parent-home.html';
     });
 
     // Click event listener for btn-locator
-    btnLocator.addEventListener("click", function () {
-        window.location.href = "locator.html";
+    btnLocator.addEventListener('click', function () {
+        window.location.href = 'locator.html';
     });
 
     // Click event listener for btn-sched
-    btnSched.addEventListener("click", function () {
-        window.location.href = "schedule.html";
+    btnSched.addEventListener('click', function () {
+        window.location.href = 'schedule.html';
     });
 
-     // Click event listener for btn-call
-     btnCall.addEventListener("click", function () {
-        window.location.href = "calling-child.html";
+    btnCall.addEventListener('click', function () {
+        window.location.href = 'calling-child.html';
     });
 
-    // Click event listener for btn-vcall
-    btnVCall.addEventListener("click", function () {
-        window.location.href = "video-calling.html";
+    btnVCall.addEventListener('click', function () {
+        window.location.href = 'video-calling.html';
     });
 
-    // Click event listener for btn-chat
-    btnChat.addEventListener("click", function () {
-        window.location.href = "chat-child.html";
+    btnChat.addEventListener('click', function () {
+        window.location.href = 'chat-child.html';
     });
 
     // Click event listener for child-activity
     childActivity.addEventListener("click", function () {
         window.location.href = "child-activity.html";
     });
+
 });
+
+
+function toggleTopSlider() {
+    var divToToggle = document.getElementById('top');
+    var btnMenu = document.getElementById('btn-menu');
+    var btnNotif = document.getElementById('btn-notif');
+    var overlay = document.getElementById('overlay');
+
+    // Check the current state of the top slider
+    var isHidden = divToToggle.style.top === '-499px';
+
+    if (isHidden) {
+        // Show the top slider
+        divToToggle.style.position = 'absolute';
+        divToToggle.style.top = '0';
+
+        // Make the overlay semi-transparent (adjust alpha value as needed)
+        overlay.style.backgroundColor = 'rgba(0, 0, 0, 0.5)';
+    } else {
+        // Hide the top slider
+        divToToggle.style.position = 'absolute';
+        divToToggle.style.top = '-499px';
+
+        // Make the overlay transparent
+        overlay.style.backgroundColor = 'rgba(0, 0, 0, 0)';
+    }
+}
+
+function toggleBottomSlider() {
+    var divToToggle = document.getElementById('bottom');
+
+    // Check the current state of the bottom slider
+    var isHidden = divToToggle.style.top === '-88px';
+
+    if (isHidden) {
+        // Show the bottom slider
+        divToToggle.style.position = 'absolute';
+        divToToggle.style.top = '500px';
+    } else {
+        // Hide the bottom slider
+        divToToggle.style.position = 'absolute';
+        divToToggle.style.top = '-88px';
+    }
+}
+
+function checkBox1() {
+    var image = document.getElementById('qzm');
+    image.src = './assets/checkbox-checked.png';
+  }
+
+  function checkBox2() {
+    var image = document.getElementById('YMT');
+    image.src = './assets/checkbox-checked.png';
+  }
+  
+  function checkBox3() {
+    var image = document.getElementById('bMF');
+    image.src = './assets/checkbox-checked.png';
+  }

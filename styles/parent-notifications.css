@@ -13,11 +13,21 @@ input {
 	border: none;
 }
 body {
-  width: 43rem;
-}.parent-notifications-mhX {
+  width: 144rem;
+}.parent-notifications-26h {
   box-sizing: border-box;
-  padding: 5.1rem 3.1rem 5.1rem 3.2rem;
+  padding: 4.6rem 50.5rem;
   width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #c0baf9;
+}
+.parent-notifications-26h .parent-notifications-m4H {
+  box-sizing: border-box;
+  padding: 5.1rem 3.1rem 32rem 3.2rem;
+  width: 100%;
+  height: 100%;
   overflow: hidden;
   position: relative;
   align-items: center;
@@ -26,15 +36,15 @@ body {
   background-color: #ffffff;
   border-radius: 0 0 2rem 2rem;
 }
-.parent-notifications-mhX .auto-group-vhq9-6Uu {
-  margin: 0rem 1.1rem 5.4rem 0.2rem;
-  width: calc(100% - 1.3rem);
+.parent-notifications-26h .parent-notifications-m4H .auto-group-mpnq-UjP {
+  margin: 0rem 1.787rem 6.2rem 0.2rem;
+  width: calc(100% - 1.987rem);
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .auto-group-vhq9-6Uu .notifications-2NZ {
-  margin-right: 17.3rem;
+.parent-notifications-26h .parent-notifications-m4H .auto-group-mpnq-UjP .notifications-cKo {
+  margin-right: 17.987rem;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.26;
@@ -43,15 +53,15 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .auto-group-vhq9-6Uu .ph-x-bold-x1K {
-  width: 4rem;
-  height: 4rem;
-  cursor: pointer;
+.parent-notifications-26h .parent-notifications-m4H .auto-group-mpnq-UjP .ph-x-bold-Lmb {
+  margin-bottom: 0.0002rem;
+  width: 2.626rem;
+  height: 2.6261rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-app-dl-gCD {
+.parent-notifications-26h .parent-notifications-m4H .notif-app-dl-fos {
   margin: 0rem 0.1rem 2.8rem 0.1rem;
   box-sizing: border-box;
   padding: 2.1rem 2.067rem 1.5rem 2.8rem;
@@ -62,14 +72,14 @@ body {
   border-radius: 2.5rem;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-app-dl-gCD .auto-group-ah4h-ySD {
+.parent-notifications-26h .parent-notifications-m4H .notif-app-dl-fos .auto-group-quh7-yZf {
   margin: 0rem 1.333rem 1.6rem 0rem;
-  width: calc(100% - 1.3334rem);
+  width: calc(100% - 1.3333rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-app-dl-gCD .auto-group-ah4h-ySD .name-JUV {
+.parent-notifications-26h .parent-notifications-m4H .notif-app-dl-fos .auto-group-quh7-yZf .name-7Qy {
   margin-right: 6.1rem;
   font-size: 2rem;
   font-weight: 500;
@@ -79,7 +89,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-app-dl-gCD .auto-group-ah4h-ySD .datetime-dmf {
+.parent-notifications-26h .parent-notifications-m4H .notif-app-dl-fos .auto-group-quh7-yZf .datetime-q65 {
   margin-bottom: 0.1rem;
   font-size: 1.5rem;
   font-weight: 500;
@@ -90,14 +100,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-app-dl-gCD .auto-group-jq6d-9V7 {
+.parent-notifications-26h .parent-notifications-m4H .notif-app-dl-fos .auto-group-vrcm-9sT {
   margin: 0rem 0rem 0.1rem 0.1rem;
   width: calc(100% - 0.1rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-app-dl-gCD .auto-group-jq6d-9V7 .details-5df {
+.parent-notifications-26h .parent-notifications-m4H .notif-app-dl-fos .auto-group-vrcm-9sT .details-Him {
   margin: 0rem 3.967rem 0.3rem 0rem;
   max-width: 24.9rem;
   font-size: 1.5rem;
@@ -107,14 +117,14 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-app-dl-gCD .auto-group-jq6d-9V7 .tabler-trash-QA9 {
+.parent-notifications-26h .parent-notifications-m4H .notif-app-dl-fos .auto-group-vrcm-9sT .tabler-trash-18y {
   width: 2.6667rem;
   height: 3rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-app-dl-gCD .details-jiD {
+.parent-notifications-26h .parent-notifications-m4H .notif-app-dl-fos .details-Yub {
   margin-left: 0.1rem;
   font-size: 1.5rem;
   font-weight: 700;
@@ -126,7 +136,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-geofence-pjf {
+.parent-notifications-26h .parent-notifications-m4H .notif-geofence-Qwo {
   margin: 0rem 0rem 2.8rem 0.2rem;
   box-sizing: border-box;
   padding: 2.1rem 2.167rem 3.2rem 2.8rem;
@@ -138,14 +148,14 @@ body {
   border-radius: 2.5rem;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-geofence-pjf .auto-group-3z6m-ia9 {
+.parent-notifications-26h .parent-notifications-m4H .notif-geofence-Qwo .auto-group-bhsd-vQM {
   margin: 0rem 0.933rem 2.2rem 0rem;
-  width: calc(100% - 0.9334rem);
+  width: calc(100% - 0.9333rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-geofence-pjf .auto-group-3z6m-ia9 .name-Fpy {
+.parent-notifications-26h .parent-notifications-m4H .notif-geofence-Qwo .auto-group-bhsd-vQM .name-4WZ {
   margin-right: 6.1rem;
   font-size: 2rem;
   font-weight: 500;
@@ -155,7 +165,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-geofence-pjf .auto-group-3z6m-ia9 .datetime-CER {
+.parent-notifications-26h .parent-notifications-m4H .notif-geofence-Qwo .auto-group-bhsd-vQM .datetime-ajo {
   margin-bottom: 0.1rem;
   font-size: 1.5rem;
   font-weight: 500;
@@ -166,13 +176,13 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-geofence-pjf .auto-group-gjkf-iiZ {
+.parent-notifications-26h .parent-notifications-m4H .notif-geofence-Qwo .auto-group-g3wv-WdT {
   width: 100%;
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-geofence-pjf .auto-group-gjkf-iiZ .details-gfP {
+.parent-notifications-26h .parent-notifications-m4H .notif-geofence-Qwo .auto-group-g3wv-WdT .details-5Am {
   margin-right: 3.9667rem;
   max-width: 24.9rem;
   font-size: 1.5rem;
@@ -182,14 +192,14 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-geofence-pjf .auto-group-gjkf-iiZ .tabler-trash-pFo {
+.parent-notifications-26h .parent-notifications-m4H .notif-geofence-Qwo .auto-group-g3wv-WdT .tabler-trash-1KK {
   width: 2.6667rem;
   height: 3rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-keyword-vpd {
+.parent-notifications-26h .parent-notifications-m4H .notif-keyword-7dF {
   margin-right: 0.2rem;
   box-sizing: border-box;
   padding: 2.1rem 1.967rem 1.1rem 2.8rem;
@@ -198,13 +208,13 @@ body {
   border-radius: 2.5rem;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-keyword-vpd .auto-group-bgqv-Fc1 {
+.parent-notifications-26h .parent-notifications-m4H .notif-keyword-7dF .auto-group-cjxd-qp9 {
   margin: 0rem 1.133rem 0.4rem 0rem;
-  width: calc(100% - 1.1334rem);
+  width: calc(100% - 1.1333rem);
   display: flex;
   align-items: flex-end;
 }
-.parent-notifications-mhX .notif-keyword-vpd .auto-group-bgqv-Fc1 .name-PTK {
+.parent-notifications-26h .parent-notifications-m4H .notif-keyword-7dF .auto-group-cjxd-qp9 .name-BND {
   margin-right: 6.1rem;
   font-size: 2rem;
   font-weight: 500;
@@ -214,7 +224,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-keyword-vpd .auto-group-bgqv-Fc1 .datetime-8Qu {
+.parent-notifications-26h .parent-notifications-m4H .notif-keyword-7dF .auto-group-cjxd-qp9 .datetime-v4u {
   margin-bottom: 0.1rem;
   font-size: 1.5rem;
   font-weight: 500;
@@ -225,13 +235,13 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-keyword-vpd .auto-group-zr2v-TTB {
+.parent-notifications-26h .parent-notifications-m4H .notif-keyword-7dF .auto-group-tfgy-Sow {
   margin-bottom: 0.2rem;
   width: 100%;
   display: flex;
   align-items: center;
 }
-.parent-notifications-mhX .notif-keyword-vpd .auto-group-zr2v-TTB .details-Q7X {
+.parent-notifications-26h .parent-notifications-m4H .notif-keyword-7dF .auto-group-tfgy-Sow .details-o8h {
   margin-right: 5.7667rem;
   max-width: 23.3rem;
   font-size: 1.5rem;
@@ -241,7 +251,7 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-keyword-vpd .auto-group-zr2v-TTB .tabler-trash-w7T {
+.parent-notifications-26h .parent-notifications-m4H .notif-keyword-7dF .auto-group-tfgy-Sow .tabler-trash-K73 {
   margin-top: 0.5rem;
   width: 2.6667rem;
   height: 3rem;
@@ -249,7 +259,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.parent-notifications-mhX .notif-keyword-vpd .details-4hs {
+.parent-notifications-26h .parent-notifications-m4H .notif-keyword-7dF .details-aof {
   font-size: 1.5rem;
   font-weight: 700;
   line-height: 1.2175;

@@ -13,29 +13,37 @@ input {
 	border: none;
 }
 body {
-  width: 43rem;
-}
-.admin-notifications {
+  width: 144rem;
+}.admin-notifications-eVb {
   box-sizing: border-box;
-  padding: 5.7rem 3.1rem 7.8rem 3.3rem;
+  padding: 4.6rem 50.5rem;
   width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #c0baf9;
+}
+.admin-notifications-eVb .admin-notifications-2W9 {
+  box-sizing: border-box;
+  padding: 6.1rem 3.1rem 47.5rem 3.3rem;
+  width: 100%;
+  height: 100%;
   overflow: hidden;
   position: relative;
   align-items: center;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
-  border-radius: 0 0 3rem 2rem;
 }
-.admin-notifications .header {
-  margin: 0rem 1.1rem 5.8rem 0.1rem;
-  width: calc(100% - 1.2rem);
+.admin-notifications-eVb .admin-notifications-2W9 .auto-group-rw8h-XUq {
+  margin: 0rem 1.787rem 6.2rem 0.1rem;
+  width: calc(100% - 1.887rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.admin-notifications .header .lbl-notif {
-  margin-right: 17.3rem;
+.admin-notifications-eVb .admin-notifications-2W9 .auto-group-rw8h-XUq .notifications-R4R {
+  margin-right: 17.987rem;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.26;
@@ -44,15 +52,15 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-notifications .header .btn-close {
-  width: 4rem;
-  height: 4rem;
-  cursor: pointer;
+.admin-notifications-eVb .admin-notifications-2W9 .auto-group-rw8h-XUq .ph-x-bold-iZK {
+  margin-bottom: 0.0002rem;
+  width: 2.626rem;
+  height: 2.6261rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.admin-notifications .notif-app-dl-9aV {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-app-dl-qtq {
   margin: 0rem 0.1rem 2.8rem 0rem;
   box-sizing: border-box;
   padding: 2.1rem 1.967rem 1.7rem 2.8rem;
@@ -64,14 +72,14 @@ body {
   border-radius: 2.5rem;
   flex-shrink: 0;
 }
-.admin-notifications .notif-app-dl-9aV .auto-group-2b4h-eXF {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-app-dl-qtq .auto-group-g8sp-YYM {
   margin: 0rem 1.433rem 1.7rem 0rem;
   width: calc(100% - 1.4333rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.admin-notifications .notif-app-dl-9aV .auto-group-2b4h-eXF .name-afo {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-app-dl-qtq .auto-group-g8sp-YYM .name-T9X {
   margin: 0rem 0.2rem 0.2rem 0rem;
   font-size: 1.8rem;
   font-weight: 500;
@@ -81,7 +89,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-notifications .notif-app-dl-9aV .auto-group-2b4h-eXF .datetime-Gh3 {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-app-dl-qtq .auto-group-g8sp-YYM .datetime-xMB {
   font-size: 1.5rem;
   font-weight: 500;
   line-height: 1.2175;
@@ -91,14 +99,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-notifications .notif-app-dl-9aV .auto-group-bj5o-oBB {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-app-dl-qtq .auto-group-hhkh-gY5 {
   margin-left: 0.1rem;
   width: calc(100% - 0.1rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.admin-notifications .notif-app-dl-9aV .auto-group-bj5o-oBB .details-8jF {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-app-dl-qtq .auto-group-hhkh-gY5 .details-qA5 {
   margin: 0rem 2.167rem 2.1rem 0rem;
   max-width: 26.8rem;
   font-size: 1.5rem;
@@ -108,14 +116,14 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.admin-notifications .notif-app-dl-9aV .auto-group-bj5o-oBB .tabler-trash-3bK {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-app-dl-qtq .auto-group-hhkh-gY5 .tabler-trash-9Am {
   width: 2.6667rem;
   height: 3rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.admin-notifications .notif-geofence-wgh {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-geofence-2kM {
   margin-left: 0.1rem;
   box-sizing: border-box;
   padding: 2.1rem 2.067rem 1.8rem 2.8rem;
@@ -127,14 +135,14 @@ body {
   border-radius: 2.5rem;
   flex-shrink: 0;
 }
-.admin-notifications .notif-geofence-wgh .auto-group-r9dp-rof {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-geofence-2kM .auto-group-man9-KjT {
   margin: 0rem 1.033rem 2.3rem 0rem;
   width: calc(100% - 1.0333rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.admin-notifications .notif-geofence-wgh .auto-group-r9dp-rof .name-y7b {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-geofence-2kM .auto-group-man9-KjT .name-emj {
   margin: 0rem 0.2rem 0.2rem 0rem;
   font-size: 1.8rem;
   font-weight: 500;
@@ -144,7 +152,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-notifications .notif-geofence-wgh .auto-group-r9dp-rof .datetime-tVT {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-geofence-2kM .auto-group-man9-KjT .datetime-yJD {
   font-size: 1.5rem;
   font-weight: 500;
   line-height: 1.2175;
@@ -154,13 +162,13 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-notifications .notif-geofence-wgh .auto-group-aheu-DXj {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-geofence-2kM .auto-group-zty3-JbP {
   width: 100%;
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.admin-notifications .notif-geofence-wgh .auto-group-aheu-DXj .details-Axm {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-geofence-2kM .auto-group-zty3-JbP .details-TjB {
   margin: 0rem 2.567rem 1.4rem 0rem;
   max-width: 26.4rem;
   font-size: 1.5rem;
@@ -170,11 +178,10 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.admin-notifications .notif-geofence-wgh .auto-group-aheu-DXj .tabler-trash-ggD {
+.admin-notifications-eVb .admin-notifications-2W9 .notif-geofence-2kM .auto-group-zty3-JbP .tabler-trash-zDK {
   width: 2.6667rem;
   height: 3rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-

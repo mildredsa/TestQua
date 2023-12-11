@@ -10,37 +10,44 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A500"/>
   <link rel="stylesheet" href="./styles/geofence.css"/>
+  <script src="/jscripts/geofence.js"></script>
 </head>
 <body>
 <div class="geofence-S8V">
   <div class="geofence-Nnq">
     <div class="auto-group-qkbf-gYd">
       <p class="geofence-DYZ">Geofence</p>
-      <img class="ph-x-bold-9h7" src="./assets/close.png"/>
+      <img id="btn-back" class="ph-x-bold-9h7" src="./assets/close.png"/>
     </div>
-    <p class="toggle-button-here-VW5">toggle button here</p>
-    <div class="auto-group-wgzh-c4u">
+    
+    <!-- Replace the "toggle button here" statement with the toggle switch -->
+    <div class="toggle-switch">
+      <input type="checkbox" id="geofence-toggle" class="toggle-input">
+      <label for="geofence-toggle" class="toggle-label"></label>
+    </div>
+
+    <div id="map1-details" class="auto-group-wgzh-c4u">
       <p class="school-geo-LFo">School Geofence</p>
       <div class="manage-T5X">
-        <p class="edit-Coo">Edit</p>
+        <p id="btn-edit-1" class="edit-Coo">Edit</p>
         <img class="dvdr-manage-MRo" src="REPLACE_IMAGE:11:1057"/>
-        <p class="delete-6eH">Delete</p>
+        <p id="btn-del-1" class="delete-6eH">Delete</p>
       </div>
     </div>
-    <div class="school-map-33j">
+    <div id="map1" class="school-map-33j">
     </div>
-    <div class="auto-group-unmj-Kmw">
+    <div id="map2-details" class="auto-group-unmj-Kmw">
       <p class="home-geo-eJR">Home Geofence</p>
       <div class="manage-NkD">
-        <p class="edit-XND">Edit</p>
+        <p id="btn-edit-2" class="edit-XND">Edit</p>
         <img class="dvdr-manage-U2Z" src="REPLACE_IMAGE:11:1061"/>
-        <p class="delete-1HP">Delete</p>
+        <p id="btn-del-2" class="delete-1HP">Delete</p>
       </div>
     </div>
-    <img class="home-map-YYD" src="./assets/home-map.png"/>
+    <img id="map2" class="home-map-YYD" src="./assets/home-map.png"/>
     <div class="group-5-Ugm">
       <img class="ic-baseline-add-QaR" src="./assets/add.png"/>
-      <p class="add-child-k8V">Create New Geofence</p>
+      <p id="btn-add" class="add-child-k8V">Create New Geofence</p>
     </div>
   </div>
 </div>

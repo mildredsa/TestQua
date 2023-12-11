@@ -85,7 +85,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/child-pic-bg-gQm.png');
+  background-image: url('../assets/child-pic.png');
   border-radius: 3.7rem;
   flex-shrink: 0;
 }
@@ -156,7 +156,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/child-pic-bg-M73.png');
+  background-image: url('../assets/child-pic.png');
   border-radius: 3.7rem;
   flex-shrink: 0;
 }
@@ -217,7 +217,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/child-pic-bg-F25.png');
+  background-image: url('../assets/child-pic.png');
   border-radius: 3.7rem;
   flex-shrink: 0;
 }

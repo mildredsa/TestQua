@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
     logoutOption.addEventListener('click', function () {
       // Add your logout logic here
-      alert('Logout option clicked');
+      alert('Child has been Logged Out!');
     });
   
     editOption.addEventListener('click', function () {

@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     btnBlock.addEventListener('click', function () {
-        
+        alert('Download has been Blocked!');
     });
 
     btnView.addEventListener('click', function () {

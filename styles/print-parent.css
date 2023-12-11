@@ -1,0 +1,1113 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.view-parent-PA5 {
+  box-sizing: border-box;
+  padding: 4.6rem 50.5rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #c0baf9;
+}
+.view-parent-PA5 .reports-KZX {
+  box-sizing: border-box;
+  padding: 2.287rem 1.3rem 1.2rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.400000006);
+}
+.view-parent-PA5 .reports-KZX .auto-group-gfu1-2yj {
+  margin: 0rem 0.987rem 2.187rem 1.1rem;
+  width: calc(100% - 2.087rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-gfu1-2yj .vector-Mm7 {
+  margin: 0rem 1.3rem 0.013rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-gfu1-2yj .vector-sjT {
+  margin: 0rem 29.287rem 0.013rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-gfu1-2yj .ph-x-bold-C13 {
+  width: 2.626rem;
+  height: 2.6261rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT {
+  box-sizing: border-box;
+  padding: 7.1rem 2.6rem 6.3rem 2.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .view-parent-Sg5 {
+  margin: 0rem 0rem 3.5rem 0.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq {
+  width: 100%;
+  height: 28.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .rectangle-40-qCR {
+  width: 9.1rem;
+  height: 4.8257rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .rectangle-41-RZw {
+  width: 18.5rem;
+  height: 4.8257rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .rectangle-42-8z9 {
+  width: 8rem;
+  height: 4.8257rem;
+  position: absolute;
+  left: 27.5rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj {
+  width: 35.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 4.8257rem;
+  display: flex;
+  align-items: center;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ezir-n37 {
+  box-sizing: border-box;
+  padding: 0.574rem 0.6rem 8.326rem 0.6rem;
+  width: 9.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ezir-n37 .item-10-20-2023-VCR {
+  margin: 0rem 2.1rem 0.3rem 0rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ezir-n37 .am-PHo {
+  margin-right: 1.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf {
+  width: 26.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .rectangle-42-cRT {
+  width: 18.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .rectangle-43-LMT {
+  width: 8rem;
+  height: 12rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .name-mildred-amores-FzD {
+  width: 12.7rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0.5743rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .phone-number-09122380936-MXT {
+  width: 16.2rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 3.8743rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .gender-female-eWZ {
+  width: 8.8rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 5.5743rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .date-of-birth-05-23-1994-x1T {
+  width: 13.5rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 7.1743rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .password-thisishashed-FFT {
+  width: 12.8rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 8.6743rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .parent-code-1234567-YEZ {
+  width: 11.7rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 10.0743rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .email-msamores000gmailcom-dWu {
+  width: 17.4rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 2.2743rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .email-msamores000gmailcom-dWu .email-msamores000gmailcom-dWu-sub-0 {
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .email-msamores000gmailcom-dWu .email-msamores000gmailcom-dWu-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-176-TFj .auto-group-ucpv-syf .laica-amores-2xM {
+  width: 7.5rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 18.6rem;
+  top: 0.7743rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq {
+  width: 35.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 16.8rem;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .rectangle-41-quo {
+  width: 9.1rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .rectangle-42-yWD {
+  width: 18.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .rectangle-43-VjT {
+  width: 8rem;
+  height: 12rem;
+  position: absolute;
+  left: 27.5rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .parent-code-7891234-DvM {
+  width: 11.8rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 10.1rem;
+  top: 10.4rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .ian-reyes-KyP {
+  width: 5.3rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 1rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 {
+  width: 25.3rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .auto-group-bbk3-YbF {
+  margin: 0rem 4.5rem 0.3rem 0rem;
+  width: calc(100% - 4.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .auto-group-bbk3-YbF .item-10-19-2023-4Jh {
+  margin-right: 3.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .auto-group-bbk3-YbF .name-kennex-reyes-NaH {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .auto-group-nkg9-Vuo {
+  margin: 0rem 1.4rem 0.2rem 1.1rem;
+  width: calc(100% - 2.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .auto-group-nkg9-Vuo .am-gUV {
+  margin-right: 3.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .auto-group-nkg9-Vuo .email-imba1hit1gmailcom-DUR {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .auto-group-nkg9-Vuo .email-imba1hit1gmailcom-DUR .email-imba1hit1gmailcom-DUR-sub-0 {
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .auto-group-nkg9-Vuo .email-imba1hit1gmailcom-DUR .email-imba1hit1gmailcom-DUR-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .phone-number-09631234567-ayB {
+  margin: 0rem 0rem 0.3rem 9.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .gender-male-H6u {
+  margin: 0rem 0rem 0.2rem 0.4rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .date-of-birth-12-16-1992-bNV {
+  margin: 0rem 0rem 0.1rem 6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-177-vnq .group-169-dz5 .password-thisishashed-u8H {
+  margin-left: 5.9rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-127-Qqj {
+  width: 32.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 1.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-127-Qqj .date-time-of-sign-up-jND {
+  margin-right: 5.5rem;
+  max-width: 8.1rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-127-Qqj .user-details-T3K {
+  margin-right: 8.3rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .auto-group-ydjt-6Eq .group-127-Qqj .child-Bzu {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo {
+  width: 100%;
+  height: 12rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .rectangle-41-TBj {
+  width: 9.1rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .rectangle-42-NpV {
+  width: 18.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .rectangle-43-V8R {
+  width: 8rem;
+  height: 12rem;
+  position: absolute;
+  left: 27.5rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .ken-orge-QFP {
+  width: 5.3rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 1.1rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .uni-orge-hEV {
+  width: 5rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 3.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF {
+  width: 25.6rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-zls9-Jk5 {
+  margin: 0rem 5.8rem 0.3rem 0rem;
+  width: calc(100% - 5.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-zls9-Jk5 .item-10-18-2023-S5b {
+  margin-right: 3.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-zls9-Jk5 .name-ligaya-orge-A1b {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-qgku-KHo {
+  margin: 0rem 0.9rem 0.2rem 1.1rem;
+  width: calc(100% - 2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-qgku-KHo .nn-2T7 {
+  margin-right: 3.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-qgku-KHo .email-ligayaorgegmailcom-MkH {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-qgku-KHo .email-ligayaorgegmailcom-MkH .email-ligayaorgegmailcom-MkH-sub-0 {
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-qgku-KHo .email-ligayaorgegmailcom-MkH .email-ligayaorgegmailcom-MkH-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .phone-number-09423334567-8Pf {
+  margin: 0rem 0rem 0.3rem 9.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .gender-female-e77 {
+  margin: 0rem 0rem 0.2rem 1.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .date-of-birth-09-19-1975-kfw {
+  margin: 0rem 0rem 0.1rem 6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-4rtb-f2D {
+  margin: 0rem 3.6rem 0rem 9.2rem;
+  width: calc(100% - 12.8rem);
+  height: 2.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-4rtb-f2D .password-thisishashed-mqw {
+  width: 12.8rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-170-vBo .group-173-CBF .auto-group-4rtb-f2D .parent-code-3452346-UkM {
+  width: 12rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 {
+  width: 100%;
+  height: 12rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .rectangle-41-84D {
+  width: 9.1rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .rectangle-42-Fed {
+  width: 18.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .rectangle-43-n8m {
+  width: 8rem;
+  height: 12rem;
+  position: absolute;
+  left: 27.5rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .ira-mata-iHK {
+  width: 4.5rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 0.8rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .crys-mata-ctV {
+  width: 5.5rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 3.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM {
+  width: 25.7rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-lp2z-dHo {
+  margin: 0rem 6.1rem 0.3rem 0rem;
+  width: calc(100% - 6.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-lp2z-dHo .item-10-18-2023-Lxu {
+  margin-right: 3.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-lp2z-dHo .name-jonah-mata-G5s {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-yzf3-ByX {
+  margin: 0rem 2.7rem 0.2rem 1.1rem;
+  width: calc(100% - 3.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-yzf3-ByX .am-HFs {
+  margin-right: 3.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-yzf3-ByX .email-jonahjogmailcom-Bs3 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-yzf3-ByX .email-jonahjogmailcom-Bs3 .email-jonahjogmailcom-Bs3-sub-0 {
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-yzf3-ByX .email-jonahjogmailcom-Bs3 .email-jonahjogmailcom-Bs3-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .phone-number-09639034567-gSR {
+  margin: 0rem 0rem 0.3rem 9.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .gender-female-jfb {
+  margin: 0rem 0rem 0.2rem 1.5rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .date-of-birth-10-03-1983-Tbb {
+  margin: 0rem 0rem 0.1rem 5.9rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-ahc9-NyT {
+  margin: 0rem 3.7rem 0rem 9.2rem;
+  width: calc(100% - 12.9rem);
+  height: 2.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-ahc9-NyT .password-thisishashed-6Pf {
+  width: 12.8rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-178-yh7 .group-174-7aM .auto-group-ahc9-NyT .parent-code-0876456-CSh {
+  width: 12.2rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo {
+  width: 100%;
+  height: 12rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .rectangle-41-Dch {
+  width: 9.1rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .rectangle-42-k6q {
+  width: 18.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .rectangle-43-fUh {
+  width: 8rem;
+  height: 12rem;
+  position: absolute;
+  left: 27.5rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .jon-arroyo-bNM {
+  width: 5.9rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 0.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 {
+  width: 25.8rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-jgof-bmf {
+  margin: 0rem 5.6rem 0.3rem 0rem;
+  width: calc(100% - 5.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-jgof-bmf .item-10-19-2023-ibP {
+  margin-right: 3.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-jgof-bmf .name-philip-arroyo-dyF {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-1d8r-m3s {
+  margin: 0rem 2.9rem 0.2rem 1.1rem;
+  width: calc(100% - 4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-1d8r-m3s .am-gRj {
+  margin-right: 3.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-1d8r-m3s .email-philkirzgmailcom-PL9 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-1d8r-m3s .email-philkirzgmailcom-PL9 .email-philkirzgmailcom-PL9-sub-0 {
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-1d8r-m3s .email-philkirzgmailcom-PL9 .email-philkirzgmailcom-PL9-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .phone-number-091231234509-Kd7 {
+  margin: 0rem 0rem 0.3rem 9.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .gender-male-qLZ {
+  margin: 0rem 0.1rem 0.2rem 0rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .date-of-birth-09-23-1985-A7w {
+  margin: 0rem 0rem 0.1rem 6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-yau3-5Eu {
+  margin: 0rem 3.8rem 0rem 9.2rem;
+  width: calc(100% - 13rem);
+  height: 2.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-yau3-5Eu .password-thisishashed-CKX {
+  width: 12.8rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-parent-PA5 .reports-KZX .auto-group-3nox-KbT .group-185-kRs .group-179-VRo .group-175-6K7 .auto-group-yau3-5Eu .parent-code-7898754-4sX {
+  width: 12.1rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.vector-Mm7,
+.vector-sjT,
+.ph-x-bold-C13 {
+  cursor: pointer;
+}

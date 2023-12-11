@@ -19,14 +19,17 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     btnDel1.addEventListener('click', function () {
-        
+    var notifToHide = document.getElementById('notif1');
+        notifToHide.style.display = 'none';
     });
 
     btnDel2.addEventListener('click', function () {
-        
+    var notifToHide = document.getElementById('notif2');
+        notifToHide.style.display = 'none';
     });
 
     btnDel3.addEventListener('click', function () {
-        
+    var notifToHide = document.getElementById('notif3');
+        notifToHide.style.display = 'none';
     });
 });

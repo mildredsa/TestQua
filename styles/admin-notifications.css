@@ -185,3 +185,9 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
+.ph-x-bold-iZK,
+.tabler-trash-9Am,
+.tabler-trash-zDK {
+  cursor: pointer;
+}

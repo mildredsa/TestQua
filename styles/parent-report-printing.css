@@ -13,29 +13,37 @@ input {
 	border: none;
 }
 body {
-  width: 35.3rem;
-}.printing-b9o {
+  width: 144rem;
+}.printing-HPB {
   box-sizing: border-box;
-  padding: 9.1rem 0.931rem 8.6rem 1rem;
+  padding: 4.6rem 50.5rem;
   width: 100%;
-  cursor: pointer;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #c0baf9;
+}
+.printing-HPB .printing-oVw {
+  box-sizing: border-box;
+  padding: 16.828rem 1.134rem 17.517rem 1.218rem;
+  width: 100%;
+  height: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
-  border-radius: 2.3rem;
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
 }
-.printing-b9o .question-7tq {
-  margin-bottom: 4.3rem;
-  width: 33.369rem;
-  height: 26.5rem;
+.printing-HPB .printing-oVw .question-baD {
+  margin-bottom: 7.9516rem;
+  width: 40.6478rem;
+  height: 49.004rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.printing-b9o .printing-in-progress--f9f {
-  margin-left: 0.031rem;
+.printing-HPB .printing-oVw .printing-in-progress--tZK {
+  margin-right: 0.0841rem;
   font-size: 1.5rem;
   font-weight: 700;
   line-height: 1.2175;

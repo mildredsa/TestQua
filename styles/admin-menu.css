@@ -14,7 +14,7 @@ input {
 }
 body {
   width: 144rem;
-}.admin-menu-Wq3 {
+}.admin-menu-y73 {
   box-sizing: border-box;
   padding: 4.6rem 50.5rem;
   width: 100%;
@@ -23,9 +23,9 @@ body {
   position: relative;
   background-color: #c0baf9;
 }
-.admin-menu-Wq3 .admin-menu-Syb {
+.admin-menu-y73 .admin-menu-TY1 {
   box-sizing: border-box;
-  padding: 8.7rem 3.3rem 51.2rem 3.3rem;
+  padding: 8.7rem 3.3rem 44.6rem 3.3rem;
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -34,7 +34,7 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
-.admin-menu-Wq3 .admin-menu-Syb .caret-left-Aub {
+.admin-menu-y73 .admin-menu-TY1 .caret-left-wCH {
   margin-bottom: 4.8rem;
   width: 3.5rem;
   height: 3.5rem;
@@ -42,14 +42,14 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.admin-menu-Wq3 .admin-menu-Syb .mom-menu-Jku {
-  margin: 0rem 16.5rem 7rem 0rem;
+.admin-menu-y73 .admin-menu-TY1 .mom-menu-s5w {
+  margin: 0rem 16.5rem 4.8rem 0rem;
   width: calc(100% - 16.5rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.admin-menu-Wq3 .admin-menu-Syb .mom-menu-Jku .mom-pic-r1j {
+.admin-menu-y73 .admin-menu-TY1 .mom-menu-s5w .mom-pic-zgM {
   margin-right: 1.7rem;
   width: 9.5rem;
   height: 9.5rem;
@@ -62,7 +62,7 @@ body {
   border-radius: 4.75rem;
   flex-shrink: 0;
 }
-.admin-menu-Wq3 .admin-menu-Syb .mom-menu-Jku .admin-MDP {
+.admin-menu-y73 .admin-menu-TY1 .mom-menu-s5w .admin-6Db {
   font-size: 3rem;
   font-weight: 500;
   line-height: 1.26;
@@ -71,8 +71,8 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-menu-Wq3 .admin-menu-Syb .reports-shX {
-  margin: 0rem 0rem 2.1rem 1.8rem;
+.admin-menu-y73 .admin-menu-TY1 .reports-DJD {
+  margin: 0rem 0rem 1.5rem 2.2rem;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.26;
@@ -81,8 +81,28 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.admin-menu-Wq3 .admin-menu-Syb .logout-CUu {
-  margin-left: 1.8rem;
+.admin-menu-y73 .admin-menu-TY1 .parent-vCd {
+  margin: 0rem 0rem 1.5rem 5.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-menu-y73 .admin-menu-TY1 .children-Rv5 {
+  margin: 0rem 0rem 1.5rem 5.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-menu-y73 .admin-menu-TY1 .logout-M33 {
+  margin-left: 2.2rem;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.26;
@@ -92,15 +112,9 @@ body {
   flex-shrink: 0;
 }
 
-/* ... (your existing styles) ... */
-
-.admin-menu-Wq3 .admin-menu-Syb .sub-menu {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease-out;
+.caret-left-wCH,
+.parent-vCd,
+.children-Rv5,
+.logout-M33 {
+  cursor: pointer;
 }
-
-.admin-menu-Wq3 .admin-menu-Syb .sub-menu.visible {
-  max-height: 1000px; /* Adjust the value based on your actual content height */
-}
-

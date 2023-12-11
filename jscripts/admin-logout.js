@@ -4,11 +4,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Click event listener for btn-sms
     btnLogout.addEventListener('click', function () {
-        window.location.href = 'parent-login.html';
+        window.location.href = 'admin-login.html';
     });
 
     btnCancel.addEventListener('click', function () {
-        window.location.href = 'parent-home.html';
+        window.location.href = 'admin-dashboard.html';
     });
 
 

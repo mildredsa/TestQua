@@ -89,7 +89,7 @@ function toggleBottomSlider() {
     if (isHidden) {
         // Show the bottom slider
         divToToggle.style.position = 'absolute';
-        divToToggle.style.top = '500px';
+        divToToggle.style.top = '0';
     } else {
         // Hide the bottom slider
         divToToggle.style.position = 'absolute';

@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Redirect to add-child.html only if both inputs are not empty
         if (txtName.value.trim() !== '' && txtBday.value.trim() !== '') {
-            window.location.href = 'child-list.html'; //add success message
+            window.location.href = 'child-list-2.html'; //add success message
         }
     });
 });

@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   
     editOption.addEventListener('click', function () {
-        window.location.href = 'child-details.html';
+        window.location.href = 'child-details-2.html';
     });
   
     // Close the dropdown menu if the user clicks outside of it

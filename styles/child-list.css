@@ -148,3 +148,21 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
+.child-list-4VT .child-list-ayb .dropdown-menu {
+  position: absolute;
+  top: 230px; /* Adjust the distance from the btn-menu as needed */
+  right: 70px; /* Adjust the distance from the right edge as needed */
+  background-color: #ffffff;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
+  border-radius: 0.5rem;
+  display: none;
+}
+
+.child-list-4VT .child-list-ayb .dropdown-item {
+  font-family: 'Montserrat', 'Source Sans Pro';
+  padding: 1rem;
+  font-size: 1.6rem;
+  color: #000000;
+  cursor: pointer;
+}

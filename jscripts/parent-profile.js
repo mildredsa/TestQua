@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var saveButton = document.querySelector('.btn-signup-NHs');
 
     btnClose.addEventListener('click', function () {
-        window.location.href = 'parent-home.html';
+        window.location.href = 'parent-menu.html';
     }); 
 
     // Function to toggle the visibility of elements

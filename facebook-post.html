@@ -11,6 +11,16 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A400%2C700"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A500%2C700"/>
   <link rel="stylesheet" href="./styles/facebook-post.css"/>
+
+  <script>
+    function call() {
+        // Specify the URL of the page you want to navigate to
+        var destinationPage = 'calling-dswd.html';
+        // Use window.location.href to navigate to the specified page
+        window.location.href = destinationPage;
+    }   
+  </script>
+
 </head>
 <body>
 <div class="facebook-post-oob">
@@ -37,8 +47,8 @@
       </div>
     </div>
     <p class="details-kTF">Need DSWD’s Assistance?</p>
-    <div class="btn-dswd-Feu">
-      <div class="dswd-k5s">
+    <div id="btn-dswd" class="btn-dswd-Feu" onclick="call()">
+      <div class="dswd-k5s" >
         <img class="icons8-call-50-1-1-6vR" src="./assets/call.png"/>
         <p class="dswd-cds">DSWD</p>
       </div>

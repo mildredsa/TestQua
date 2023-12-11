@@ -91,3 +91,16 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
+/* ... (your existing styles) ... */
+
+.admin-menu-Wq3 .admin-menu-Syb .sub-menu {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+
+.admin-menu-Wq3 .admin-menu-Syb .sub-menu.visible {
+  max-height: 1000px; /* Adjust the value based on your actual content height */
+}
+

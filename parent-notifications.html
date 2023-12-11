@@ -10,13 +10,14 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A400%2C500%2C700"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Outfit%3A400"/>
   <link rel="stylesheet" href="./styles/parent-notifications.css"/>
+  <script src="/jscripts/parent-notifications.js"></script>
 </head>
 <body>
 <div class="parent-notifications-26h">
   <div class="parent-notifications-m4H">
     <div class="auto-group-mpnq-UjP">
       <p class="notifications-cKo">Notifications</p>
-      <img class="ph-x-bold-Lmb" src="./assets/close.png"/>
+      <img id="btn-close" class="ph-x-bold-Lmb" src="./assets/close.png"/>
     </div>
     <div class="notif-app-dl-fos">
       <div class="auto-group-quh7-yZf">
@@ -29,9 +30,10 @@
         <br/>
         Mobile.
         </p>
-        <img class="tabler-trash-18y" src="./assets/delete.png"/>
+        <img id="btn-del1" class="tabler-trash-18y" src="./assets/delete.png"/>
       </div>
-      <p class="details-Yub">Tap here to block</p>
+      <p id="btn-block" class="details-Yub">Tap here to block</p>
+      
     </div>
     <div class="notif-geofence-Qwo">
       <div class="auto-group-bhsd-vQM">
@@ -44,7 +46,7 @@
         <br/>
         boundary.
         </p>
-        <img class="tabler-trash-1KK" src="./assets/delete.png"/>
+        <img id="btn-del2" class="tabler-trash-1KK" src="./assets/delete.png"/>
       </div>
     </div>
     <div class="notif-keyword-7dF">
@@ -54,9 +56,9 @@
       </div>
       <div class="auto-group-tfgy-Sow">
         <p class="details-o8h">Keyword Alert! A potential cyberbullying Facebook post is detected.</p>
-        <img class="tabler-trash-K73" src="./assets/delete.png"/>
+        <img id="btn-del3" class="tabler-trash-K73" src="./assets/delete.png"/>
       </div>
-      <p class="details-aof">Tap here to view</p>
+      <p id="btn-view" class="details-aof">Tap here to view</p>
     </div>
   </div>
 </div>

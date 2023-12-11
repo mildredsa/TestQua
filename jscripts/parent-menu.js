@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var btnControl = document.getElementById('btn-control');
     var btnReports = document.getElementById('btn-reports');
     var btnLogout = document.getElementById('btn-logout');
+    var btnBack = document.getElementById('btn-back');
 
     // Event listener for Profile button
     btnProf.addEventListener('click', function () {
@@ -22,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Event listener for Reports button
     btnReports.addEventListener('click', function () {
-        window.location.href = 'parent-print-activities.html';
+        window.location.href = 'parent-reports.html';
     });
 
     // Event listener for Logout button
@@ -30,6 +31,8 @@ document.addEventListener('DOMContentLoaded', function () {
         window.location.href = 'parent-logout.html';
     });
 
-    // You can add more event listeners for different buttons
-    // ...
+    btnBack.addEventListener('click', function () {
+        window.location.href = 'parent-home.html';
+    });
+
 });

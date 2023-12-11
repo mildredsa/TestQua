@@ -121,3 +121,12 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
+.profile-W4V, 
+.children-pay, 
+.parental-controls-YWy, 
+.reports-Gxm, 
+.logout-cWq,
+.caret-left-1k1 {
+  cursor: pointer;
+}

@@ -10,12 +10,13 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Outfit%3A400"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500"/>
   <link rel="stylesheet" href="./styles/child-list.css"/>
+  <script src="/jscripts/child-list.js"></script>
 </head>
 <body>
 <div class="child-list-4VT">
   <div class="child-list-ayb">
     <div class="auto-group-3kk5-Jeh">
-      <img class="caret-left-q8q" src="./assets/caret-left.png"/>
+      <img id="btn-back" class="caret-left-q8q" src="./assets/caret-left.png"/>
       <p class="children-m2V">Children</p>
     </div>
     <div class="group-68-UxV">
@@ -25,11 +26,16 @@
         <p class="name-odP">Laica</p>
         <p class="age-wUh">12</p>
       </div>
-      <img class="child-menu-Gms" src="./assets/child-menu.png"/>
+      <img id="btn-menu" class="child-menu-Gms" src="./assets/dot-menu.png"/>
+      <div class="dropdown-menu" id="dropdown-menu">
+        <p class="dropdown-item" id="delete-option">Delete</p>
+        <p class="dropdown-item" id="logout-option">Logout</p>
+        <p class="dropdown-item" id="edit-option">Edit</p>
+      </div>
     </div>
     <div class="group-5-kS9">
       <img class="ic-baseline-add-rk5" src="./assets/add.png"/>
-      <p class="add-child-yph">Add Another Child</p>
+      <p id="btn-add" class="add-child-yph">Add Another Child</p>
     </div>
   </div>
 </div>

@@ -219,3 +219,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
+.btn-end-ui5 {
+  cursor: pointer;
+}

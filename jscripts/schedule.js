@@ -75,7 +75,7 @@ function toggleTopSlider() {
 
         // Make the overlay transparent
         overlay.style.backgroundColor = 'rgba(0, 0, 0, 0)';
-    }
+    }s
 }
 
 function toggleBottomSlider() {

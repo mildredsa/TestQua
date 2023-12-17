@@ -263,9 +263,22 @@ body {
   bottom: 2px;
   background-color: white;
   border-radius: 50%;
+  transform: translateX(0); /* Initial position */
   transition: transform 0.3s;
 }
 
 .geofence-S8V .geofence-Nnq .toggle-input:checked + .toggle-label:before {
   transform: translateX(26px);
+}
+
+/* ... Your existing styles ... */
+
+.geofence-S8V .geofence-Nnq .toggle-input:checked + .toggle-label,
+.geofence-S8V .geofence-Nnq .toggle-label.checked {
+  background-color: #4CAF50;
+}
+
+.geofence-S8V .geofence-Nnq .toggle-input:checked + .toggle-label:before,
+.geofence-S8V .geofence-Nnq .toggle-label.checked:before {
+  transform: translateX(26px); /* Transformed position when checked */
 }

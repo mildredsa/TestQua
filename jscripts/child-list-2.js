@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   
     logoutOption.addEventListener('click', function () {
-      // Add your logout logic here
+      // Add your logout logic here                                                            
       alert('Child has been Logged Out!');
     });
   

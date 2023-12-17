@@ -36,7 +36,17 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     btnAdd.addEventListener('click', function () {
-        window.location.href = '.html';
+        window.location.href = 'edit-map1.html';
+    });
+
+    // Get the toggle input and its corresponding label by ID
+    var toggleInput = document.getElementById('geofence-toggle');
+    var toggleLabel = document.getElementById('toggle');
+
+    // Add a click event listener to the toggle input
+    toggleLabel.addEventListener('click', function () {
+      // Toggle the 'checked' class on the label based on the checked state of the input
+      toggleLabel.classList.toggle('checked', toggleInput.checked);
     });
 
 

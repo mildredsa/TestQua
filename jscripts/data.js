@@ -20,8 +20,8 @@ var userData = [
     name: "Mildred Amores",
     email: "msamores000@gmail.com",
     num: "9876543210",
-    pass: "qwerty",
-    cpass: "qwerty",
+    pass: "pass1123",
+    cpass: "pass123",
   },
 ];
 
@@ -37,4 +37,4 @@ var adminData = [
 ];
 
 // verCode array
-var verCode = ["codexx", "abc123", "123456", "coders"];
+var verCode = ["codexx", "abc123", "123456", "coders", "456789"];
